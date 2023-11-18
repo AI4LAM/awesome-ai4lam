@@ -25,6 +25,6 @@ This list is a collection of resources, tools, projects, and other materials for
 ## Data Sets
 
 ## Conferences and Workshops
-[Fantastic Futures 2024, Canberra](https://www.nfsa.gov.au/fantastic-futures-canberra-2024-artificial-intelligence-libraries-archives-and-museums)
+[Fantastic Futures 2024 at the National Film and Sound Archive of Australia (NFSA), 16–18 October 2024, in Canberra, Australia](https://www.nfsa.gov.au/fantastic-futures-canberra-2024-artificial-intelligence-libraries-archives-and-museums)
 
 ## Community
