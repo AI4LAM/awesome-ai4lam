@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        NOTE: Each discrete (standalone) request should be in its own issue.
+        NOTE: Each discrete addition request should be in its own issue.
 
   - type: textarea
     attributes:
