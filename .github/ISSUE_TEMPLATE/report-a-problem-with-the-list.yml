@@ -1,0 +1,11 @@
+name: Report a problem with the list
+description: Report a mistake, broken link, out-of-date info, or other problem with the awesome-ai4lam list.
+title: "[BUG] "
+labels: ['bug']
+body:
+  - type: textarea
+    attributes:
+      label: Describe the problem
+      description: Please name the problematic item and describe what is wrong, or if the problem is more general, explain what it is.
+    validations:
+      required: true
