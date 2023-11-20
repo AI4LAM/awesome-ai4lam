@@ -36,3 +36,5 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 
 
 ## Community
+
+The AI4LAM community's home page is [https://ai4lam.org](https://ai4lam.org/). The secretariat and other contact addresses can be found at the [_About_](https://sites.google.com/view/ai4lam/about) page.
