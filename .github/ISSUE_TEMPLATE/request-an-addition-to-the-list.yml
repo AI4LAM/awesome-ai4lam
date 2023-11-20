@@ -27,7 +27,9 @@ body:
   - type: textarea
     attributes:
       label: Name the section where the item should be added
-      description: Pick an existing section or subsection, or propose a new section
+      description: Pick an existing section or subsection, or propose a new section.
+    validations:
+      required: true
 
   - type: checkboxes
     attributes:
