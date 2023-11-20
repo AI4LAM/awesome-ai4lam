@@ -7,6 +7,7 @@ body:
     attributes:
       value: |
         NOTE: Each discrete (standalone) request should be in its own issue.
+
   - type: textarea
     attributes:
       label: Provide a URL for the new item
@@ -15,16 +16,19 @@ body:
         https://github.com/ai4lam/awesome-ai4lam
     validations:
       required: true
+
   - type: textarea
     attributes:
       label: Describe the new item as concisely as possible
       description: A clear and concise description of why it should be added to this list.
     validations:
       required: true
+
   - type: textarea
     attributes:
       label: Name the section where the item should be added
       description: Pick an existing section or subsection, or propose a new section
+
   - type: checkboxes
     attributes:
       label: Issue Checklist
