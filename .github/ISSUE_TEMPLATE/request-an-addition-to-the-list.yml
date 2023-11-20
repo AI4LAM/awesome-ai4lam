@@ -20,7 +20,7 @@ body:
   - type: textarea
     attributes:
       label: Describe the new item as concisely as possible
-      description: A clear and concise description of why it should be added to this list.
+      description: The item will be linked and a description will be added next to it. Please write a suitable description to be used for that purpose. Note that conciseness is important. (Please take a look at the awesome-ai4lam list to get an idea of what is being sought here.)
     validations:
       required: true
 
