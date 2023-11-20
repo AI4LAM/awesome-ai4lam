@@ -1,14 +1,37 @@
----
 name: Request an addition to the list
-about: Suggest an item to be added to this awesome list
-title: "[ADD]"
-labels: ''
-assignees: ''
-
----
-
-## Provide a URL for the new item:
-
-## Describe the new item as concisely as possible:
-
-## Indicate the section where the item should be added:
+description: Suggest an item to be added to this awesome list
+title: "[NEW] "
+labels: ['addition']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        NOTE: Each discrete (standalone) request should be in its own issue.
+  - type: textarea
+    attributes:
+      label: Provide a URL for the new item
+      description: Place link here.
+      placeholder: | 
+        https://github.com/ai4lam/awesome-ai4lam
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Describe the new item as concisely as possible
+      description: A clear and concise description of why it should be added to this list.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Name the section where the item should be added
+      description: Pick an existing section or subsection, or propose a new section
+  - type: checkboxes
+    attributes:
+      label: Issue Checklist
+      description: Put an x in the boxes once you've completed each step. You can also fill these out after creating the issue. If you're unsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before responding to the issue.
+      options:
+        - label: I have checked that the item does not already exist in the list
+        - label: I have provided a concise description of the addition
+        - label: I have explained where I think the addition belongs in the awesome list
+    validations:
+      required: true
