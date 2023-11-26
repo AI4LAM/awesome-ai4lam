@@ -1,0 +1,25 @@
+# @file    .gitignore
+# @brief   Rules for files and subdirectories to be ignored by git
+# @date    2023-11-26
+# @license Please see the file named LICENSE in the project directory
+# @website https://github.com/AI4LAM/awesome-ai4lam
+#
+# The approach used here is to add ONLY project-specific rules in this file.
+# Put rules that apply to your way of doing things (and the particular tools
+# you use) into a global git ignore file as described in the section
+# "Configuring ignored files for all repositories on your computer" here:
+# https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+# (accessed on 2022-07-14). For example, Emacs checkpoint and backup files
+# are things that are not specific to a given project; rather, Emacs creates
+# them everywhere, in all projects, because they're a byproduct of using
+# Emacs, not a consequence of working on a particular project. Thus, a rule to
+# ignore them belong in a user's global .gitignore, not a project .gitignore.
+#
+# A useful starting point for global .gitignore file contents can be found at
+# https://github.com/github/gitignore/tree/main/Global (as of 2022-07-14).
+
+# Project-specific things to ignore:
+# .............................................................................
+
+README.html
+*.tmp
