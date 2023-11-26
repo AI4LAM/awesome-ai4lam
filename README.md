@@ -11,6 +11,8 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
 - [Data Sets](#data-sets)
 - [Conferences and Workshops](#conferences-and-workshops)
 - [Community](#community)
+- [License](#license)
+
 
 ## Introduction
 
@@ -42,3 +44,10 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 ## Community
 
 The AI4LAM community's home page is [https://ai4lam.org](https://ai4lam.org/). The secretariat and other contact addresses can be found at the [_About_](https://sites.google.com/view/ai4lam/about) page.
+
+
+## License
+
+<img align="right" title="CC0 Logo" alt="CC0 Logo" src=".graphics/cc0.jpg" width="100rem"/>
+
+The contents of this page are licensed under the [Creative Commons CC0 1.0 Universal license](https://creativecommons.org/public-domain/cc0/). CC0 is a &ldquo;no rights reserved&rdquo; license; the authors relinquish copyright and similar rights to the contents of the Awesome AI for LAM list.
