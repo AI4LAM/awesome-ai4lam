@@ -11,6 +11,7 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
 - [Data Sets](#data-sets)
 - [Conferences and Workshops](#conferences-and-workshops)
 - [Community](#community)
+- [Contributions](#contributions)
 - [License](#license)
 
 
@@ -44,6 +45,11 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 ## Community
 
 The AI4LAM community's home page is [https://ai4lam.org](https://ai4lam.org/). The secretariat and other contact addresses can be found at the [_About_](https://sites.google.com/view/ai4lam/about) page.
+
+
+## Contributions
+
+Your help and participation in enhancing this awesome list are very much welcome! Please use the [issue ticket system](https://github.com/AI4LAM/awesome-ai4lam/issues) to request additions or changes, or to make other contributions to this repository. For more information, please visit the [guidelines for contributing](CONTRIBUTING.md).
 
 
 ## License
