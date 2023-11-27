@@ -8,7 +8,10 @@
 # because the original didn't work.
 
 name: Check README for broken links
+run-name: Check README for broken links after ${{github.event_name}} by ${{github.actor}}
+
 on: [push, pull_request, workflow_dispatch]
+
 env:
  ISSUE_TEMPLATE: ".github/workflows/ISSUE_TEMPLATE.md"
  contents: read
