@@ -21,11 +21,14 @@ This list is a collection of resources, tools, projects, and other materials for
 
 ## Learning Resources
 
-## Projects and Case Studies
-
 ## Tools and Frameworks
 
 ## Data Sets
+
+## Projects, Initiatives, and Case Studies
+
+* [List of Artificial Intelligence (AI) initiatives in museums](https://docs.google.com/spreadsheets/d/1A7IVnucQZ0ICxYSOCjqQ1oV3xGgNzDKtIYGrk6smV7w/edit#gid=0) – compiled in 2021 by Elena Villaespesa, Oonagh Murphy and Kate Nadel for the [Museums+AI Network](https://themuseumsai.network) project.
+
 
 ## Conferences and Workshops
 
