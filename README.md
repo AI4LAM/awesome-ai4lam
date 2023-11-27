@@ -6,7 +6,7 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
 
 - [Introduction](#introduction)
 - [Learning Resources](#learning-resources)
-- [Projects and Case Studies](#projects-and-case-studies)
+- [Projects and Case Studies](#projects-initiatives-and-case-studies)
 - [Tools and Frameworks](#tools-and-frameworks)
 - [Data Sets](#data-sets)
 - [Conferences and Workshops](#conferences-and-workshops)
@@ -27,7 +27,7 @@ This list is a collection of resources, tools, projects, and other materials for
 
 ## Projects, Initiatives, and Case Studies
 
-* [List of Artificial Intelligence (AI) initiatives in museums](https://docs.google.com/spreadsheets/d/1A7IVnucQZ0ICxYSOCjqQ1oV3xGgNzDKtIYGrk6smV7w/edit#gid=0) – compiled in 2021 by Elena Villaespesa, Oonagh Murphy and Kate Nadel for the [Museums+AI Network](https://themuseumsai.network) project.
+- [List of Artificial Intelligence (AI) initiatives in museums](https://docs.google.com/spreadsheets/d/1A7IVnucQZ0ICxYSOCjqQ1oV3xGgNzDKtIYGrk6smV7w/edit#gid=0) – compiled in 2021 by Elena Villaespesa, Oonagh Murphy and Kate Nadel for the [Museums+AI Network](https://themuseumsai.network) project.
 
 
 ## Conferences and Workshops
@@ -36,18 +36,18 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 
 ### Upcoming Conferences and Workshops
 
-* [IIPC General Assembly &amp; Web Archiving Conference](https://netpreserve.org/ga2024/) – Apr. 24–26 at the Bibliothèque nationale de France, Paris, France.
-* [Fantastic Futures 2024](https://www.nfsa.gov.au/fantastic-futures-canberra-2024-artificial-intelligence-libraries-archives-and-museums) – Oct. 16–18 at the National Film and Sound Archive of Australia (NFSA), Canberra, Australia.
-* [ai4Libraries Conference](https://www.ai4libraries.org) – Oct. 23 and/or 24 virtual event hosted by Georgia Tech Library, Atlanta, Georgia, USA.
+- [IIPC General Assembly &amp; Web Archiving Conference](https://netpreserve.org/ga2024/) – Apr. 24–26 at the Bibliothèque nationale de France, Paris, France.
+- [Fantastic Futures 2024](https://www.nfsa.gov.au/fantastic-futures-canberra-2024-artificial-intelligence-libraries-archives-and-museums) – Oct. 16–18 at the National Film and Sound Archive of Australia (NFSA), Canberra, Australia.
+- [ai4Libraries Conference](https://www.ai4libraries.org) – Oct. 23 and/or 24 virtual event hosted by Georgia Tech Library, Atlanta, Georgia, USA.
 
 ### Past Conferences and Workshops
 
-* [Fantastic Futures 2018](https://www.nb.no/hva-skjer/ai-conference/) – Dec. 5 at the National Library of Norway, Oslo, Norway.
-* [Fantastic Futures 2019](https://wayback.stanford.edu/was/20230508165810/http://library.stanford.edu/projects/fantastic-futures) – Dec. 4–6 at Stanford University, Stanford, California, USA.
-* [Fantastic Futures 2021](https://www.bnf.fr/fr/captations-et-supports-de-la-conference-2021) – Dec. 8–10 at the Bibliothèque nationale de France, Paris, France.
-* [Fantastic Futures 2022](https://sites.google.com/view/ai4lam/ai4lam-2022-virtual-event) – Nov. 30–Dec. 2 virtual event hosted by the British Library, London, England.
-* [ai4Libraries Conference](https://www.ai4libraries.org) – Oct. 19 virtual event hosted by Georgia Tech Library, Atlanta, Georgia, USA.
-* [Fantastic Futures 2023](https://ff2023.archive.org) – Nov. 15–17 at Internet Archive Canada Headquarters, Vancouver, British Columbia, Canada.
+- [Fantastic Futures 2018](https://www.nb.no/hva-skjer/ai-conference/) – Dec. 5 at the National Library of Norway, Oslo, Norway.
+- [Fantastic Futures 2019](https://wayback.stanford.edu/was/20230508165810/http://library.stanford.edu/projects/fantastic-futures) – Dec. 4–6 at Stanford University, Stanford, California, USA.
+- [Fantastic Futures 2021](https://www.bnf.fr/fr/captations-et-supports-de-la-conference-2021) – Dec. 8–10 at the Bibliothèque nationale de France, Paris, France.
+- [Fantastic Futures 2022](https://sites.google.com/view/ai4lam/ai4lam-2022-virtual-event) – Nov. 30–Dec. 2 virtual event hosted by the British Library, London, England.
+- [ai4Libraries Conference](https://www.ai4libraries.org) – Oct. 19 virtual event hosted by Georgia Tech Library, Atlanta, Georgia, USA.
+- [Fantastic Futures 2023](https://ff2023.archive.org) – Nov. 15–17 at Internet Archive Canada Headquarters, Vancouver, British Columbia, Canada.
 
 
 ## Community
