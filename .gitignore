@@ -1,8 +1,7 @@
 # @file    .gitignore
 # @brief   Rules for files and subdirectories to be ignored by git
-# @date    2023-11-26
 # @license Please see the file named LICENSE in the project directory
-# @website https://github.com/AI4LAM/awesome-ai4lam
+# @repo    https://github.com/AI4LAM/awesome-ai4lam
 #
 # The approach used here is to add ONLY project-specific rules in this file.
 # Put rules that apply to your way of doing things (and the particular tools
