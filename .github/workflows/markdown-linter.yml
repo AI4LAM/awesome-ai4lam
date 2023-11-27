@@ -1,0 +1,21 @@
+# @file    markdown-linter.yml
+# @brief   GitHub Actions workflow to run a Markdown linter on .md files
+# @license Please see the file named LICENSE in the repository
+# @repo    https://github.com/AI4LAM/awesome-ai4lam
+
+name: Lint Markdown files
+run-name: Lint Markdown files after ${{github.event_name}} by ${{github.actor}}
+
+on: [push, pull_request, workflow_dispatch]
+
+jobs:
+  lint:
+    name: "Run Markdown linter"
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: DavidAnson/markdownlint-cli2-action@v13
+      with:
+        config: '.markdownlint.json'
+        globs: |
+          *.md
