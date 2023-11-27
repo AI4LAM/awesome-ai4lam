@@ -4,7 +4,8 @@
 # @repo    https://github.com/AI4LAM/awesome-ai4lam
 #
 # This file was originally copied on 2023-11-26 from the instructions at
-# https://github.com/saver999/Broken-Links-Checker
+# https://github.com/saver999/Broken-Links-Checker but has been modified
+# because the original didn't work.
 
 name: Check README for broken links
 on: [push, pull_request, workflow_dispatch]
@@ -22,7 +23,7 @@ jobs:
    - name: Gather links from the README.md file
      id: get-links
      run: |
-      LINKS=$(sed -nE 's/\[.*\]\((http[s]?:\/\/[^)]*)\)/\1/p' README.md | paste -sd ,)
+      LINKS=$( sed -r -e 's/\[/\n[/g' README.md  | sed -r -e 's/.*(\[.*\]\(.*\)).*/\n\1/g' | grep -oE '\[.*\]\(.*\)' | sed -r -e 's/.*\(([^)]+)\).*/\1/g' | g -v '^#' | g http | paste -sd ,)
       echo "WEBSITE_URL=$LINKS" >> $GITHUB_ENV
 
    - name: Run the Broken Links Checker
