@@ -67,7 +67,7 @@ jobs:
       - name: Test URLs found inside Markdown files
         uses: lycheeverse/lychee-action@v1.8.0
         with:
-          args: --no-progress --exclude-mail --exclude-loopback --include-verbatim ${{env.files}}
+          args: --no-progress --exclude-mail --exclude-loopback --include-verbatim --retry-wait-time 30 ${{env.files}}
           debug: false
           format: markdown
           jobSummary: false
