@@ -1,0 +1,105 @@
+# @file    markdown-link-tester.yml
+# @brief   GitHub Actions workflow to check the README file for broken links
+# @author  Mike Hucka <mhucka@caltech.edu>
+# @license Please see the file named LICENSE in the repository
+# @repo    https://github.com/ai4lam/awesome-ai4lam
+#
+# This workflow checks the URL destinations of in links found inside .md
+# files in the repository where this workflow is installed. If any URLs
+# are invalid, this opens an issue in the repository, with the issue
+# body containing a list of files and URLs that have errors in them.
+#
+# It is not advisable to run this workflow on every push. Instead, this
+# workflow is configured to run once a day, and also when pull requests.
+# are made. It can also be invoked manually from the GitHub Actions tab.
+#
+# This workflow assigns a label to the GitHub issue it creates. The default
+# label is "bug"; this can be adjusted by setting the value in the "env"
+# section below.
+
+# ╭────────────────────────────────────────────────────────────────╮
+# │ Set the following variables to suit your repository and needs. │
+# ╰────────────────────────────────────────────────────────────────╯
+
+env:
+  # Markdown files examined by the workflow. Can be a comma-separated list.
+  files: '*.md'
+
+  # Label assigned to issues created by this workflow.
+  labels: bug
+
+# ╭────────────────────────────────────────────────────────────────╮
+# │ The rest of this file should not need modification.            │
+# ╰────────────────────────────────────────────────────────────────╯
+
+# Implementation notes:
+# - This purposefully doesn't use lychee's caching facility, because turning
+#   on that feature results in lychee not reporting the original error
+#   message when a cached URL is encountered. This is very unhelpful.
+#
+# - More information about optional settings for the lychee-action GHA can
+#   be found at https://github.com/lycheeverse/lychee-action
+
+name: Test links in Markdown files
+run-name: Test for broken links in Markdown files
+
+on:
+  schedule:
+    - cron: "00 11 * * *"
+  workflow_dispatch:
+    paths:
+      - '*.md'
+  repository_dispatch:
+    paths:
+      - '*.md'
+  pull_request:
+    paths:
+      - '*.md'
+
+jobs:
+  test-links:
+    name: Test link URLs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source repository
+        uses: actions/checkout@v3
+
+      - name: Test URLs found inside Markdown files
+        uses: lycheeverse/lychee-action@v1.8.0
+        with:
+          args: --no-progress --exclude-mail --exclude-loopback --include-verbatim ${{env.files}}
+          debug: false
+          format: markdown
+          jobSummary: false
+
+      - name: Post-process the output
+        if: env.lychee_exit_code != 0
+        # Edit the output to remove needless bits and improve formatting.
+        run: |
+          sed -e 's/^## Summary//' \
+              -e 's/^|.*//g' \
+              -e 's/^## Errors per input//' \
+              -e 's/{.*$//g' \
+              -e 's/| Failed:/– Failed:/g' \
+              -e 's/^\[Full Github.*//' \
+              -e 's/\(.*\)\[\(.*\)\]\(.*\)/\1[`\2`]\3/' \
+              < lychee/out.md > lychee/report.md
+
+      - name: Open a new issue/ticket to report the problems
+        if: env.lychee_exit_code != 0
+        id: create-issue
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          token: ${{secrets.GITHUB_TOKEN}}
+          title: Invalid URLs in Markdown files
+          content-filepath: ./lychee/report.md
+          labels: ${{env.labels}}
+
+      - name: Put a link to the issue in the workflow output
+        if: env.lychee_exit_code != 0
+        env:
+          issue-number: ${{steps.create-issue.outputs.issue-number}}
+        run: |
+          echo "## Invalid URLs found" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Ticket [#${{env.issue-number}}](https://github.com/${{github.repository}}/issues/${{env.issue-number}}) has been created." >> $GITHUB_STEP_SUMMARY
