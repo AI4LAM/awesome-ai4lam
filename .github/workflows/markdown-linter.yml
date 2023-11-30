@@ -6,7 +6,16 @@
 name: Lint Markdown files
 run-name: Lint Markdown files after ${{github.event_name}} by ${{github.actor}}
 
-on: [push, pull_request, workflow_dispatch]
+on:
+  push:
+    paths:
+      - '*.md'
+  pull_request:
+    paths:
+      - '*.md'
+  workflow_dispatch:
+    paths:
+      - '*.md'
 
 jobs:
   lint:
