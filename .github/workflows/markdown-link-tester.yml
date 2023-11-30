@@ -2,16 +2,28 @@
 # @brief   GitHub Actions workflow to check the README file for broken links
 # @author  Mike Hucka <mhucka@caltech.edu>
 # @license Please see the file named LICENSE in the repository
-# @repo    https://github.com/ai4lam/awesome-ai4lam
+# @repo    https://github.com/caltechlibrary/iga
 #
 # This workflow checks the URL destinations of in links found inside .md
 # files in the repository where this workflow is installed. If any URLs
 # are invalid, this opens an issue in the repository, with the issue
 # body containing a list of files and URLs that have errors in them.
+# Only URLs using the scheme https or http are tested.
 #
-# It is not advisable to run this workflow on every push. Instead, this
-# workflow is configured to run once a day, and also when pull requests.
-# are made. It can also be invoked manually from the GitHub Actions tab.
+# It is not advisable to run this workflow on every push, because during
+# intense sessions of writing and testing, it often results in opening
+# multiple issues for the same file(s) and URLs before one realizes what's
+# happened. Instead, this workflow is configured to run:
+#  - once a day
+#  - when pull requests are made on files ending in .md
+#  - when this workflow file itself is edited (markdown-link-tester.yml)
+# It can also be invoked manually when needed from the GitHub Actions tab.
+#
+# This workflow includes a configuration variable for listing URLs that
+# should be ignored when encountered. This is useful when some of your files
+# contain fake URLs used as examples in documentation. The URLs must be
+# listed one per line. They can be written as regular expresions; e.g.,
+#   https://example\.(com|org)
 #
 # This workflow assigns a label to the GitHub issue it creates. The default
 # label is "bug"; this can be adjusted by setting the value in the "env"
@@ -25,8 +37,12 @@ env:
   # Markdown files examined by the workflow. Can be a comma-separated list.
   files: '*.md'
 
+  # File containing a list of URLs to ignore, one per line.
+  # Path is relative to the root of the repository.
+  ignore_list: '.github/workflows/ignored-urls.txt'
+
   # Label assigned to issues created by this workflow.
-  labels: bug
+  labels: 'bug'
 
 # ╭────────────────────────────────────────────────────────────────╮
 # │ The rest of this file should not need modification.            │
@@ -35,7 +51,7 @@ env:
 # Implementation notes:
 # - This purposefully doesn't use lychee's caching facility, because turning
 #   on that feature results in lychee not reporting the original error
-#   message when a cached URL is encountered. This is very unhelpful.
+#   when a cached URL is encountered. This is very unhelpful in this context.
 #
 # - More information about optional settings for the lychee-action GHA can
 #   be found at https://github.com/lycheeverse/lychee-action
@@ -46,42 +62,72 @@ run-name: Test for broken links in Markdown files
 on:
   schedule:
     - cron: "00 11 * * *"
-  workflow_dispatch:
-    paths:
-      - '*.md'
-  repository_dispatch:
-    paths:
-      - '*.md'
   pull_request:
     paths:
-      - '*.md'
+      - '**.md'
+  push:
+    paths:
+      - .github/workflows/markdown-link-tester.yml
+  workflow_dispatch:
 
 jobs:
-  test-links:
-    name: Test link URLs
+  check-files-changed:
+    name: Check if files changed
     runs-on: ubuntu-latest
+    outputs:
+      changed: ${{steps.test-files-changed.outputs.changed}}
+    steps:
+      - name: Check out source repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 10
+
+      - name: Check if the files were changed in latest commit
+        uses: MarceloPrado/has-changed-path@v1.0.1
+        id: test-files-changed
+        with:
+          paths: ${{env.files}}
+
+      - name: Report whether files needed to be tested
+        if: steps.test-files-changed.outputs.changed != 'true' && github.event_name != 'workflow_dispatch'
+        run: |
+          echo "Link testing **skipped** because the latest commit did not change the relevant files." >> $GITHUB_STEP_SUMMARY
+          echo "The files tested were the following: <code>${{env.files}}</code>" >> $GITHUB_STEP_SUMMARY
+
+  test-links:
+    name: Check links in Markdown files
+    if: needs.check-files-changed.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    needs: check-files-changed
     steps:
       - name: Check out source repository
         uses: actions/checkout@v3
 
+      - name: Configure link checker
+        run: |
+          if [ -e ${{env.ignore_list}} ]; then
+            cp -f ${{env.ignore_list}} .lycheeignore
+          fi
+
       - name: Test URLs found inside Markdown files
         uses: lycheeverse/lychee-action@v1.8.0
         with:
-          args: --no-progress --exclude-mail --exclude-loopback --include-verbatim --retry-wait-time 30 ${{env.files}}
+          args: --no-progress --scheme https --scheme http --exclude-mail --exclude-loopback --include-verbatim ${{env.files}}
           debug: false
           format: markdown
           jobSummary: false
 
       - name: Post-process the output
         if: env.lychee_exit_code != 0
-        # Edit the output to remove needless bits and improve formatting.
+        # Edit lychee's output to remove needless bits and improve formatting.
         run: |
           sed -e 's/^## Summary//' \
               -e 's/^|.*//g' \
               -e 's/^## Errors per input//' \
               -e 's/{.*$//g' \
               -e 's/| Failed:/– Failed:/g' \
-              -e 's/^\[Full Github.*//' \
+              -e 's/| Timeout:/– Timeout:/g' \
+              -e 's/^\[Full Github Actions output\(.*\)/\nThis content was produced by a [Github Action\1./' \
               -e 's/\(.*\)\[\(.*\)\]\(.*\)/\1[`\2`]\3/' \
               < lychee/out.md > lychee/report.md
 
