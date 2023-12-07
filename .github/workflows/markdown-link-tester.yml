@@ -2,7 +2,7 @@
 # @brief   GitHub Actions workflow to check the README file for broken links
 # @author  Mike Hucka <mhucka@caltech.edu>
 # @license Please see the file named LICENSE in the repository
-# @repo    https://github.com/caltechlibrary/iga
+# @repo    https://github.com/caltechlibrary/awesome-ai4lam
 #
 # This workflow checks the URL destinations of in links found inside .md
 # files in the repository where this workflow is installed. If any URLs
