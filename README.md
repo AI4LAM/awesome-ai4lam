@@ -6,9 +6,10 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
 
 - [Introduction](#introduction)
 - [Learning Resources](#learning-resources)
-- [Projects and Case Studies](#projects-initiatives-and-case-studies)
 - [Tools and Frameworks](#tools-and-frameworks)
 - [Data Sets](#data-sets)
+- [Projects, Initiatives, and Case Studies](#projects-initiatives-and-case-studies)
+- [Policies and recommendations](#policies-and-recommendations)
 - [Conferences and Workshops](#conferences-and-workshops)
 - [Community](#community)
 - [Contributions](#contributions)
@@ -21,6 +22,22 @@ This list is a collection of resources, tools, projects, and other materials for
 
 ## Learning Resources
 
+Please note: the appearance of a resource on this list does not constitute an official endorsement by AI4LAM.
+
+### General AI topics
+
+- [AI Unplugged: activities and teaching material on artificial intelligence](https://www.aiunplugged.org)
+- [A Generative AI Primer](https://nationalcentreforai.jiscinvolve.org/wp/2023/10/16/generative-ai-primer/), by the National Centre for AI
+- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) by Stephen Wolfram
+- [Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118), by Google
+- [Generative AI for Beginners - A Course](https://microsoft.github.io/generative-ai-for-beginners/#/), by Microsoft
+- [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html), by Sebastian Raschka
+- [Dive into Deep Learning](https://d2l.ai/index.html), by Zhang et al.
+- [Understanding Large Language Models – A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
+- [The Map Of Transformers](https://towardsdatascience.com/the-map-of-transformers-e14952226398)
+- [Nature's _Science and the new age of AI_](https://www.nature.com/immersive/d41586-023-03017-2/index.html)
+
+
 ## Tools and Frameworks
 
 ## Data Sets
@@ -28,6 +45,18 @@ This list is a collection of resources, tools, projects, and other materials for
 ## Projects, Initiatives, and Case Studies
 
 - [List of Artificial Intelligence (AI) initiatives in museums](https://docs.google.com/spreadsheets/d/1A7IVnucQZ0ICxYSOCjqQ1oV3xGgNzDKtIYGrk6smV7w/edit#gid=0) – compiled in 2021 by Elena Villaespesa, Oonagh Murphy and Kate Nadel for the [Museums+AI Network](https://themuseumsai.network) project.
+
+
+## Policies and recommendations
+
+###  Statements by organizations
+
+- [IFLA Statement on Libraries and Artificial Intelligence](https://repository.ifla.org/bitstream/123456789/1646/1/ifla_statement_on_libraries_and_artificial_intelligence-full-text.pdf)
+- [US Government Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
+
+### Surveys of policies and recommendations
+
+- [AI policies across the globe: Implications and recommendations for libraries](https://journals.sagepub.com/doi/10.1177/03400352231196172) by L.&nbsp;S. Lo in _IFLA Journal_, 49(4), 645–649, 2023.
 
 
 ## Conferences and Workshops
