@@ -11,6 +11,7 @@ AI4LAM’s core values include being an inclusive, diverse, international, and s
 We are a community of professionals, and we conduct ourselves professionally. The AI4LAM community is dedicated to providing a harassment-free collaboration experience for everyone regardless of gender, sexual orientation, disability, physical appearance, race, religion, faith, or anything else. We do not tolerate harassment of community participants in any form. Sexual or discriminatory language and imagery is not appropriate for any venue, including event presentations, mailing lists, teleconferences, and in-person gatherings. Participants violating these rules may be sanctioned or expelled at the discretion of the event of community coordinators, and their details provided to partner institutions.
 
 Harassment includes, but is not limited to:
+
 * Offensive verbal comments, insults, or jokes related to physical or intellectual ability, gender, sexual orientation, disability, physical appearance, race, religion, etc.
 * Discriminatory images in public spaces, including but not limited to sexually explicit or violent material.
 * Deliberate intimidation, violent threats or language directed against another person.
