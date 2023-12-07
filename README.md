@@ -49,7 +49,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ## Policies and recommendations
 
-###  Statements by organizations
+### Statements by organizations
 
 - [IFLA Statement on Libraries and Artificial Intelligence](https://repository.ifla.org/bitstream/123456789/1646/1/ifla_statement_on_libraries_and_artificial_intelligence-full-text.pdf)
 - [US Government Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
