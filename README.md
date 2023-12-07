@@ -56,7 +56,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Surveys of policies and recommendations
 
-- [AI policies across the globe: Implications and recommendations for libraries](https://journals.sagepub.com/doi/10.1177/03400352231196172) by L.&nbsp;S. Lo in _IFLA Journal_, 49(4), 645–649, 2023.
+- [AI policies across the globe: Implications and recommendations for libraries](https://doi.org/10.1177/0340035223119617) by L.&nbsp;S. Lo in _IFLA Journal_, 49(4), 645–649, 2023.
 
 
 ## Conferences and Workshops
