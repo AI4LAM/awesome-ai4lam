@@ -26,7 +26,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### General AI topics
 
-- [AI Unplugged: activities and teaching material on artificial intelligence](https://www.aiunplugged.org)
+- [Slides from FF23 workshop on _Intro to AI for GLAM_](https://docs.google.com/presentation/d/1dVdS3u-XS2RDexNm3RlwICCsh5gBmdi1pBARgIGnPN8) and [shared notes](https://pad.carpentries.org/intro-ai-ff2023)
 - [A Generative AI Primer](https://nationalcentreforai.jiscinvolve.org/wp/2023/10/16/generative-ai-primer/), by the National Centre for AI
 - [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) by Stephen Wolfram
 - [Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118), by Google
@@ -52,11 +52,18 @@ Please note: the appearance of a resource on this list does not constitute an of
 ### Statements by organizations
 
 - [IFLA Statement on Libraries and Artificial Intelligence](https://repository.ifla.org/bitstream/123456789/1646/1/ifla_statement_on_libraries_and_artificial_intelligence-full-text.pdf)
-- [US Government Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
+- [US Government _Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence_](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
+- [Canadian Government _Principles for responsible, trustworthy and privacy-protective generative AI technologies_](https://www.priv.gc.ca/en/privacy-topics/technology/artificial-intelligence/gd_principles_ai/)
+
 
 ### Surveys of policies and recommendations
 
 - [AI policies across the globe: Implications and recommendations for libraries](https://doi.org/10.1177/0340035223119617) by L.&nbsp;S. Lo in _IFLA Journal_, 49(4), 645–649, 2023.
+
+
+### Frameworks
+
+- [A Comprehensive AI Policy Education Framework for University Teaching and Learning](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-023-00408-3) by C. K. Y. Chan in _International Journal of Educational Technology in Higher Education_, 20(38), 2023.
 
 
 ## Conferences and Workshops
