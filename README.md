@@ -27,7 +27,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 ### General AI topics
 
 - [Slides from FF23 workshop on _Intro to AI for GLAM_](https://docs.google.com/presentation/d/1dVdS3u-XS2RDexNm3RlwICCsh5gBmdi1pBARgIGnPN8) and [shared notes](https://pad.carpentries.org/intro-ai-ff2023)
-- [A Generative AI Primer](https://nationalcentreforai.jiscinvolve.org/wp/2023/10/16/generative-ai-primer/), by the National Centre for AI
+- [A Generative AI Primer](https://nationalcentreforai.jiscinvolve.org/wp/2023/10/16/generative-ai-primer/), by the UK's National Centre for AI
 - [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) by Stephen Wolfram
 - [Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118), by Google
 - [Generative AI for Beginners - A Course](https://microsoft.github.io/generative-ai-for-beginners/#/), by Microsoft
@@ -36,6 +36,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [Understanding Large Language Models – A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
 - [The Map Of Transformers](https://towardsdatascience.com/the-map-of-transformers-e14952226398)
 - [Nature's _Science and the new age of AI_](https://www.nature.com/immersive/d41586-023-03017-2/index.html)
+- [A Collection of AI Demos to Discover and Explore](https://exploreai.jisc.ac.uk/) including computer vision, text and 'knowledge'-based tools
 
 
 ## Tools and Frameworks
