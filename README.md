@@ -45,7 +45,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 ## Projects, Initiatives, and Case Studies
 
 - [List of Artificial Intelligence (AI) initiatives in museums](https://docs.google.com/spreadsheets/d/1A7IVnucQZ0ICxYSOCjqQ1oV3xGgNzDKtIYGrk6smV7w/edit#gid=0) – compiled in 2021 by Elena Villaespesa, Oonagh Murphy and Kate Nadel for the [Museums+AI Network](https://themuseumsai.network) project.
-
+- [Inventory of NARA Artificial Intelligence (AI) Use Cases](https://www.archives.gov/data/ai-inventory) - the US National Archives and Records Administration (NARA)'s inventory of AI use cases including current and planned uses, consistent with their mission
 
 ## Policies and recommendations
 
