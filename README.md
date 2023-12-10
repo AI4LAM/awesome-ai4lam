@@ -18,7 +18,9 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
 
 ## Introduction
 
-This list is a collection of resources, tools, projects, and other materials for professionals and enthusiasts in the Libraries, Archives, and Museums (LAM) sector. It's maintained by the [AI4LAM](https://www.ai4lam.org/) community. Its aim is to support knowledge sharing, innovation, and collaboration in applying AI to LAM.
+This list is a collection of resources, tools, projects, and other materials for professionals and enthusiasts in the Libraries, Archives, and Museums (LAM) sector. You might also know this as the GLAM (galleries, libraries, archives and museums) or CHI (cultural heritage institutions) sector, or be more familiar with the term 'memory institutions'. However you describe the field, if you know of an AI, machine learning, big data or data science project, event or resource related to collections, please share it here!
+
+This list is maintained by the [AI4LAM](https://www.ai4lam.org/) community. Its aim is to support knowledge sharing, innovation, and collaboration in applying AI to LAM.
 
 ## Learning Resources
 
