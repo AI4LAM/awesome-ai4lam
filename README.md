@@ -62,6 +62,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 ### Surveys of policies and recommendations
 
 - [AI policies across the globe: Implications and recommendations for libraries](https://doi.org/10.1177/0340035223119617) by L.&nbsp;S. Lo in _IFLA Journal_, 49(4), 645–649, 2023.
+- [A principled governance for emerging AI regimes: lessons from China, the European Union, and the United States](https://link.springer.com/article/10.1007/s43681-022-00205-0) by R. B. L. Dixon in _AI and Ethics_, 3, 793–810, 2023.
 
 
 ### Frameworks
