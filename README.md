@@ -53,7 +53,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ## Policies and recommendations
 
-### Statements by organizations
+### Statements by organizations and government bodies
 
 - [IFLA Statement on Libraries and Artificial Intelligence](https://repository.ifla.org/bitstream/123456789/1646/1/ifla_statement_on_libraries_and_artificial_intelligence-full-text.pdf)
 - [US Government _Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence_](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
@@ -69,6 +69,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 ### Frameworks
 
 - [A Comprehensive AI Policy Education Framework for University Teaching and Learning](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-023-00408-3) by C. K. Y. Chan in _International Journal of Educational Technology in Higher Education_, 20(38), 2023.
+- [A Framework for U.S. AI Governance: Creating a Safe and Thriving AI Sector](https://computing.mit.edu/wp-content/uploads/2023/11/AIPolicyBrief.pdf) white paper by the MIT Schwarzman College of Computing, Dec. 11, 2023. (See also [related article in MIT News](https://news.mit.edu/2023/mit-group-releases-white-papers-governance-ai-1211).)
 
 
 ## Conferences and Workshops
