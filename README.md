@@ -42,8 +42,13 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/), a free courses from a platform created by Andrew Ng
 - [Introduction to Hugging Face](https://www.codecademy.com/learn/intro-to-hugging-face), a free course by Codecademy
 
+### AI in galleries, libraries, archives and museums
+
+- The [AI4LAM YouTube channel](https://www.youtube.com/@ai4lam120/videos) has introductory presentations on many topics
+
 
 ## Tools and Frameworks
+
 
 ## Data Sets
 
