@@ -39,7 +39,8 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [The Map Of Transformers](https://towardsdatascience.com/the-map-of-transformers-e14952226398)
 - [Nature's _Science and the new age of AI_](https://www.nature.com/immersive/d41586-023-03017-2/index.html)
 - [A Collection of AI Demos to Discover and Explore](https://exploreai.jisc.ac.uk/) including computer vision, text and 'knowledge'-based tools
-- [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) free courses from a platform created by Andrew Ng
+- [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/), a free courses from a platform created by Andrew Ng
+- [Introduction to Hugging Face](https://www.codecademy.com/learn/intro-to-hugging-face), a free course by Codecademy
 
 
 ## Tools and Frameworks
