@@ -27,24 +27,24 @@ This list is maintained by the [AI4LAM](https://www.ai4lam.org/) community. Its 
 Please note: the appearance of a resource on this list does not constitute an official endorsement by AI4LAM.
 
 ### General AI topics
-
-
-- [Slides from FF23 workshop on _Intro to AI for GLAM_](https://docs.google.com/presentation/d/1dVdS3u-XS2RDexNm3RlwICCsh5gBmdi1pBARgIGnPN8) and [shared notes](https://pad.carpentries.org/intro-ai-ff2023)
+- [Elements of AI](https://www.elementsofai.com/), a free course by MinnaLearn and the University of Helsinki
+- [Slides from FF23 workshop on Intro to AI for GLAM_](https://docs.google.com/presentation/d/1dVdS3u-XS2RDexNm3RlwICCsh5gBmdi1pBARgIGnPN8) and [shared notes](https://pad.carpentries.org/intro-ai-ff2023)
 - [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html), by Sebastian Raschka
 - [Dive into Deep Learning](https://d2l.ai/index.html), by Zhang et al.
-- [The Map Of Transformers](https://towardsdatascience.com/the-map-of-transformers-e14952226398)
 - [Nature's _Science and the new age of AI_](https://www.nature.com/immersive/d41586-023-03017-2/index.html)
 - [A Collection of AI Demos to Discover and Explore](https://exploreai.jisc.ac.uk/) including computer vision, text and 'knowledge'-based tools
 - [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/), a free courses from a platform created by Andrew Ng
 - [Introduction to Hugging Face](https://www.codecademy.com/learn/intro-to-hugging-face), a free course by Codecademy
-- [Elements of AI](https://www.elementsofai.com/), a free course by MinnaLearn and the University of Helsinki
 
 #### Generative AI
+- [The Map Of Transformers](https://towardsdatascience.com/the-map-of-transformers-e14952226398)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/), a visual introduction to transformers
+- [Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118), by Google
+- [Generative AI for Beginners - A Course](https://microsoft.github.io/generative-ai-for-beginners/#/), by Microsoft
 - [Understanding Large Language Models – A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
 - [A Generative AI Primer](https://nationalcentreforai.jiscinvolve.org/wp/2023/10/16/generative-ai-primer/), by the UK's National Centre for AI
 - [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) by Stephen Wolfram
-- [Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118), by Google
-- [Generative AI for Beginners - A Course](https://microsoft.github.io/generative-ai-for-beginners/#/), by Microsoft
+
   
 ### AI in galleries, libraries, archives and museums
 
