@@ -45,7 +45,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 ### AI in galleries, libraries, archives and museums
 
 - The [AI4LAM YouTube channel](https://www.youtube.com/@ai4lam120/videos) has introductory presentations on many topics
-
+- The [CENL "AI in Libraries" network group](https://www.cenl.org/networkgroups/ai-in-libraries-network-group/) is also organizing webinars on AI implementation in GLAM.
 
 ## Tools and Frameworks
 
