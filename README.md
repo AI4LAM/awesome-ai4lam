@@ -42,6 +42,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118), by Google
 - [Generative AI for Beginners - A Course](https://microsoft.github.io/generative-ai-for-beginners/#/), by Microsoft
 - [Understanding Large Language Models – A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
+- [Large Language Model Course](https://github.com/mlabonne/llm-course)
 - [A Generative AI Primer](https://nationalcentreforai.jiscinvolve.org/wp/2023/10/16/generative-ai-primer/), by the UK's National Centre for AI
 - [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) by Stephen Wolfram
 
