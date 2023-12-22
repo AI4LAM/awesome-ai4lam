@@ -8,9 +8,15 @@ run-name: Lint Markdown files after ${{github.event_name}} by ${{github.actor}}
 
 on:
   push:
+    branches:
+      - main
     paths:
       - '*.md'
   pull_request:
+    branches:
+      - main
+    types:
+      - closed
     paths:
       - '*.md'
   workflow_dispatch:
