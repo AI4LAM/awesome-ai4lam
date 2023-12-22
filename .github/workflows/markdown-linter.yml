@@ -12,11 +12,9 @@ on:
       - main
     paths:
       - '*.md'
-  pull_request_target:
+  pull_request:
     branches:
       - main
-    types:
-      - closed
     paths:
       - '*.md'
   workflow_dispatch:
