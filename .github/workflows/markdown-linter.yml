@@ -12,7 +12,7 @@ on:
       - main
     paths:
       - '*.md'
-  pull_request:
+  pull_request_target:
     branches:
       - main
     types:
