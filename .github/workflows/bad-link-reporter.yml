@@ -20,9 +20,9 @@ on:
   schedule:
     # Syntax is: "minute  hour  day-of-month  month  day-of-week"
     - cron: "00 04 * * *"
-  pull_request:
-    paths: ['**.md']
   push:
+    branches:
+      - main
     paths:
       - .github/workflows/bad-link-reporter.yml
       - .github/workflows/ignored-urls.txt
