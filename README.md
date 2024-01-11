@@ -10,6 +10,7 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
   - [AI in galleries, libraries, archives and museums](#ai-in-galleries-libraries-archives-and-museums)
 - [Tools and Frameworks](#tools-and-frameworks)
   - [OCR, HTR, transcription](#optical-character-recognition-handwriting-recognition-transcription)
+  - [Annotation, labeling](#annotation-labeling)
 - [Data Sets](#data-sets)
 - [Projects, Initiatives, and Case Studies](#projects-initiatives-and-case-studies)
   - [Project lists & directories](#project-lists--directories)
@@ -69,6 +70,13 @@ Please note: the appearance of a resource on this list does not constitute an of
 ### Optical character recognition, handwriting recognition, transcription
 
 - [Transkribus](https://readcoop.eu/transkribus/) – transcription, recognition, & searching of historical documents
+
+### Annotation, labeling
+
+- [Annotorious](https://annotorious.github.io) – JavaScript image annotation library
+- [Callico](https://teklia.com/blog/open-sourcing-callico/) – open-source web platform for document annotation
+- [Label Studio](https://labelstud.io) – data labeling platform to fine-tune LLMs, prepare training data or validate AI models
+- [VGG Image Annotator](https://www.robots.ox.ac.uk/~vgg/software/via/) – manual annotation software for image, audio and video
 
 
 ## Data Sets
