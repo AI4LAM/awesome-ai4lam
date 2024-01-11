@@ -70,6 +70,13 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 - [Transkribus](https://readcoop.eu/transkribus/) – transcription, recognition, & searching of historical documents
 
+### Annotation, labeling
+
+- [Annotorious](https://annotorious.github.io) – JavaScript image annotation library
+- [Callico](https://teklia.com/blog/open-sourcing-callico/) – open-source web platform for document annotation
+- [Label Studio](https://labelstud.io) – data labeling platform to fine-tune LLMs, prepare training data or validate AI models
+- [VGG Image Annotator](https://www.robots.ox.ac.uk/~vgg/software/via/) – manual annotation software for image, audio and video
+
 
 ## Data Sets
 
