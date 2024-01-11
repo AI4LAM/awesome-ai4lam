@@ -6,11 +6,21 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
 
 - [Introduction](#introduction)
 - [Learning Resources](#learning-resources)
+  - [General AI topics](#general-ai-topics)
+  - [AI in galleries, libraries, archives and museums](#ai-in-galleries-libraries-archives-and-museums)
 - [Tools and Frameworks](#tools-and-frameworks)
+  - [OCR, HTR, transcription](#optical-character-recognition-handwriting-recognition-transcription)
 - [Data Sets](#data-sets)
 - [Projects, Initiatives, and Case Studies](#projects-initiatives-and-case-studies)
+  - [Project lists & directories](#project-lists--directories)
+  - [Projects by AI4LAM community members](#projects-by-ai4lam-community-members)
 - [Policies and recommendations](#policies-and-recommendations)
+  - [Statements by organizations and government bodies](#statements-by-organizations-and-government-bodies)
+  - [Surveys of policies and recommendations](#surveys-of-policies-and-recommendations)
+  - [Frameworks](#frameworks)
 - [Conferences and Workshops](#conferences-and-workshops)
+  - [Upcoming Conferences and Workshops](#upcoming-conferences-and-workshops)
+  - [Past Conferences and Workshops](#past-conferences-and-workshops)
 - [Community](#community)
 - [Contributions](#contributions)
 - [License](#license)
@@ -47,7 +57,6 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [Large Language Model Course](https://github.com/mlabonne/llm-course)
 - [A Generative AI Primer](https://nationalcentreforai.jiscinvolve.org/wp/2023/10/16/generative-ai-primer/), by the UK's National Centre for AI
 - [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) by Stephen Wolfram
-
 
 ### AI in galleries, libraries, archives and museums
 
