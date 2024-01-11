@@ -27,6 +27,7 @@ This list is maintained by the [AI4LAM](https://www.ai4lam.org/) community. Its 
 Please note: the appearance of a resource on this list does not constitute an official endorsement by AI4LAM.
 
 ### General AI topics
+
 - [Elements of AI](https://www.elementsofai.com/), a free course by MinnaLearn and the University of Helsinki
 - [Slides from FF23 workshop on Intro to AI for GLAM_](https://docs.google.com/presentation/d/1dVdS3u-XS2RDexNm3RlwICCsh5gBmdi1pBARgIGnPN8) and [shared notes](https://pad.carpentries.org/intro-ai-ff2023)
 - [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html), by Sebastian Raschka
@@ -37,6 +38,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [Introduction to Hugging Face](https://www.codecademy.com/learn/intro-to-hugging-face), a free course by Codecademy
 
 #### Generative AI
+
 - [The Map Of Transformers](https://towardsdatascience.com/the-map-of-transformers-e14952226398)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/), a visual introduction to transformers
 - [Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118), by Google
@@ -46,21 +48,45 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [A Generative AI Primer](https://nationalcentreforai.jiscinvolve.org/wp/2023/10/16/generative-ai-primer/), by the UK's National Centre for AI
 - [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) by Stephen Wolfram
 
-  
+
 ### AI in galleries, libraries, archives and museums
 
 - The [AI4LAM YouTube channel](https://www.youtube.com/@ai4lam120/videos) has introductory presentations on many topics
 - The [CENL "AI in Libraries" network group](https://www.cenl.org/networkgroups/ai-in-libraries-network-group/) is also organizing webinars on AI implementation in GLAM.
 
+
 ## Tools and Frameworks
+
+### Optical character recognition, handwriting recognition, transcription
+
+- [Transkribus](https://readcoop.eu/transkribus/) – transcription, recognition, & searching of historical documents
 
 
 ## Data Sets
 
+
 ## Projects, Initiatives, and Case Studies
 
+### Project lists & directories
+
 - [List of Artificial Intelligence (AI) initiatives in museums](https://docs.google.com/spreadsheets/d/1A7IVnucQZ0ICxYSOCjqQ1oV3xGgNzDKtIYGrk6smV7w/edit#gid=0) – compiled in 2021 by Elena Villaespesa, Oonagh Murphy and Kate Nadel for the [Museums+AI Network](https://themuseumsai.network) project.
-- [Inventory of NARA Artificial Intelligence (AI) Use Cases](https://www.archives.gov/data/ai-inventory) - the US National Archives and Records Administration (NARA)'s inventory of AI use cases including current and planned uses, consistent with their mission
+- [Inventory of NARA Artificial Intelligence (AI) Use Cases](https://www.archives.gov/data/ai-inventory) - the US National Archives and Records Administration (NARA)'s inventory of AI use cases
+
+
+### Projects by AI4LAM community members
+
+- [Audiovisual Metadata Platform (AMP)](https://uisapp2.iu.edu/confluence-prd/display/AMP/AMP%3A+Audiovisual+Metadata+Platform) – generation of metadata for discovery & use of digital audio & video collections (Indiana U., USA)
+- [Distributed Annotation 'n' Enrichment (DANE)](https://github.com/CLARIAH/DANE) – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
+- [GallicaSNOOP](https://www.bnf.fr/sites/default/files/2022-05/Poster_Gallica_Snoop.pdf) – framework for large-scale content-based image retrieval (Bibliothèque nationale de France)
+- [inaFaceAnalyzer](https://github.com/ina-foss/inaFaceAnalyzer) – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
+- [Maken Similarity Service](https://www.nb.no/maken/) – tools for alternative reading & finding similar photographs (National Library of Norway)
+- [Norwegian Transformer Model (NoTraM)](https://github.com/NBAiLab/notram) – transformer model for Norwegian and Nordic languages (National Library of Norway)
+- [OCR correction](https://bnl.public.lu/en.html) – OCR correction tools (Bibliothèque nationale, Luxembourg)
+- [Projects in AI Registry (PAIR)](https://libraries.ou.edu/content/project-highlight-projects-ai-registry-pair) – registry of AI projects in higher education (U. Oklahoma Libraries, USA)
+- [ReTV](https://retv-project.eu) – video analysis & summarization (Modul Univesrity, Austria)
+- [Swedish BERT](https://github.com/Kungbib/swedish-bert-models) – BERT model for the Swedish language (Royal Library of Sweden)
+- [Vatican Manuscripts](https://www.youtube.com/watch?v=8khPUtwaVaw) – machine transcription in the Vatican Secret Archive
+
 
 ## Policies and recommendations
 
