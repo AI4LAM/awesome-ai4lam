@@ -6,7 +6,8 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
 
 - [Introduction](#introduction)
 - [Learning Resources](#learning-resources)
-  - [General AI topics](#general-ai-topics)
+  - [Introductions to AI](#introductions-to-ai)
+  - [Generative AI](#generate-ai)
   - [AI in galleries, libraries, archives and museums](#ai-in-galleries-libraries-archives-and-museums)
 - [Tools and Frameworks](#tools-and-frameworks)
   - [OCR, HTR, transcription](#optical-character-recognition-handwriting-recognition-transcription)
@@ -38,7 +39,7 @@ This list is maintained by the [AI4LAM](https://www.ai4lam.org/) community. Its 
 
 Please note: the appearance of a resource on this list does not constitute an official endorsement by AI4LAM.
 
-### General AI topics
+### Introductions to AI
 
 - [Elements of AI](https://www.elementsofai.com/), a free course by MinnaLearn and the University of Helsinki
 - [Slides from FF23 workshop on Intro to AI for GLAM_](https://docs.google.com/presentation/d/1dVdS3u-XS2RDexNm3RlwICCsh5gBmdi1pBARgIGnPN8) and [shared notes](https://pad.carpentries.org/intro-ai-ff2023)
