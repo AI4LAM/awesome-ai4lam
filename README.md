@@ -22,6 +22,7 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
 - [Conferences and Workshops](#conferences-and-workshops)
   - [Upcoming Conferences and Workshops](#upcoming-conferences-and-workshops)
   - [Past Conferences and Workshops](#past-conferences-and-workshops)
+- [Journals](#journals)
 - [Community](#community)
 - [Contributions](#contributions)
 - [License](#license)
@@ -145,6 +146,9 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 - [Fantastic Futures 2022](https://sites.google.com/view/ai4lam/ai4lam-2022-virtual-event) – Nov. 30–Dec. 2 virtual event hosted by the British Library, London, England.
 - [ai4Libraries Conference](https://www.ai4libraries.org) – Oct. 19 virtual event hosted by Georgia Tech Library, Atlanta, Georgia, USA.
 - [Fantastic Futures 2023](https://ff2023.archive.org) – Nov. 15–17 at Internet Archive Canada Headquarters, Vancouver, British Columbia, Canada.
+
+
+## Journals
 
 
 ## Community
