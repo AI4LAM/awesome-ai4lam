@@ -151,6 +151,12 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 
 ## Journals
 
+- [International Journal on Digital Libraries](https://link.springer.com/journal/799)
+- [Journal of Academic Librarianship](https://www.sciencedirect.com/journal/the-journal-of-academic-librarianship/special-issue/10WVZWS842J)
+- [Journal of Librarianship and Information Science](https://journals.sagepub.com/home/LIS)
+- [Journal on Computing and Cultural Heritage](https://dl.acm.org/journal/jocch)
+- [Library Resources & Technical Services](https://journals.ala.org/index.php/lrts)
+
 
 ## Community
 
