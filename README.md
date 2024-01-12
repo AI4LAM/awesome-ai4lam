@@ -7,7 +7,7 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
 - [Introduction](#introduction)
 - [Learning Resources](#learning-resources)
   - [Introductions to AI](#introductions-to-ai)
-  - [Generative AI](#generate-ai)
+  - [Generative AI](#generative-ai)
   - [AI in galleries, libraries, archives and museums](#ai-in-galleries-libraries-archives-and-museums)
 - [Tools and Frameworks](#tools-and-frameworks)
   - [OCR, HTR, transcription](#optical-character-recognition-handwriting-recognition-transcription)
