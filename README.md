@@ -69,6 +69,11 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ## Tools and Frameworks
 
+### LLM (easy) testing
+- [GPT4All](https://gpt4all.io/index.html)
+- [oobabooga](https://github.com/oobabooga)
+- [PrivateGPT](https://github.com/imartinez/privateGPT)
+
 ### Optical character recognition, handwriting recognition, transcription
 
 - [Transkribus](https://readcoop.eu/transkribus/) – transcription, recognition, & searching of historical documents
