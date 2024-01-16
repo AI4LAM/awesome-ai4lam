@@ -83,6 +83,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 - [Annotorious](https://annotorious.github.io) – JavaScript image annotation library
 - [Callico](https://teklia.com/blog/open-sourcing-callico/) – open-source web platform for document annotation
+- [CAMPI](https://kilthub.cmu.edu/articles/preprint/CAMPI_Computer-Aided_Metadata_Generation_for_Photo_archives_Initiative/12791807) – Computer-Aided Metadata Generation for Photo archives Initiative
 - [Label Studio](https://labelstud.io) – data labeling platform to fine-tune LLMs, prepare training data or validate AI models
 - [VGG Image Annotator](https://www.robots.ox.ac.uk/~vgg/software/via/) – manual annotation software for image, audio and video
 
@@ -105,12 +106,14 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [GallicaSNOOP](https://www.bnf.fr/sites/default/files/2022-05/Poster_Gallica_Snoop.pdf) – framework for large-scale content-based image retrieval (Bibliothèque nationale de France)
 - [inaFaceAnalyzer](https://github.com/ina-foss/inaFaceAnalyzer) – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
 - [Maken Similarity Service](https://www.nb.no/maken/) – tools for alternative reading & finding similar photographs (National Library of Norway)
+- [Newspaper Navigator](https://labs.loc.gov/work/experiments/newspaper-navigator/) – explore visual & textual content in the _Chronicling America_ digitized newspaper collection at the Library of Congress (USA)
 - [Norwegian Transformer Model (NoTraM)](https://github.com/NBAiLab/notram) – transformer model for Norwegian and Nordic languages (National Library of Norway)
 - [OCR correction](https://bnl.public.lu/en.html) – OCR correction tools (Bibliothèque nationale, Luxembourg)
 - [Projects in AI Registry (PAIR)](https://libraries.ou.edu/content/project-highlight-projects-ai-registry-pair) – registry of AI projects in higher education (U. Oklahoma Libraries, USA)
 - [ReTV](https://retv-project.eu) – video analysis & summarization (Modul Univesrity, Austria)
 - [Swedish BERT](https://github.com/Kungbib/swedish-bert-models) – BERT model for the Swedish language (Royal Library of Sweden)
 - [Vatican Manuscripts](https://www.youtube.com/watch?v=8khPUtwaVaw) – machine transcription in the Vatican Secret Archive
+- [Visual AI](https://www.robots.ox.ac.uk/~vgg/projects/visualai/index.html) – open-world interpretable visual transformer (UK)
 
 
 ## Policies and recommendations
