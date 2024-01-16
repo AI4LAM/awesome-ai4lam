@@ -69,10 +69,11 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ## Tools and Frameworks
 
-### LLM (easy) testing
-- [GPT4All](https://gpt4all.io/index.html)
-- [oobabooga](https://github.com/oobabooga)
-- [PrivateGPT](https://github.com/imartinez/privateGPT)
+### Exploring/testing large language models (LLMS)
+
+- [GPT4All](https://gpt4all.io/index.html) – free, private, locally-running GPT chatbot
+- [oobabooga](https://github.com/oobabooga) – text generation web UI for multiple LLMs
+- [PrivateGPT](https://github.com/imartinez/privateGPT) – ask questions about your documents using LLMs using a private, local GPT
 
 ### Optical character recognition, handwriting recognition, transcription
 
