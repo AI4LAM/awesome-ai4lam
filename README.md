@@ -2,6 +2,12 @@
 
 A curated list of resources, projects, and tools for using Artificial Intelligence in Libraries, Archives, and Museums.
 
+[![License](https://img.shields.io/badge/License-CC0-blue.svg?style=flat-square)](https://github.com/AI4LAM/awesome-ai4lam/blob/master/LICENSE)
+![Maintained?](https://img.shields.io/badge/Maintained%3F%2dyes-orange.svg?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/AI4LAM/awesome-ai4lam?style=flat-square&color=b44e88)
+[![Last commit](https://img.shields.io/github/last-commit/AI4LAM/awesome-ai4lam.svg?style=flat-square&color=forestgreen)](https://github.com/AI4LAM/awesome-ai4lam/commits/main/)
+
+
 ## Contents
 
 - [Introduction](#introduction)
