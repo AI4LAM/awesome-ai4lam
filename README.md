@@ -7,6 +7,7 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
 - [Introduction](#introduction)
 - [Learning Resources](#learning-resources)
   - [Introductions to AI](#introductions-to-ai)
+  - [Computer vision](#computer-vision)
   - [Generative AI](#generative-ai)
   - [AI in galleries, libraries, archives and museums](#ai-in-galleries-libraries-archives-and-museums)
 - [Tools and Frameworks](#tools-and-frameworks)
@@ -42,6 +43,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 ### Introductions to AI
 
 - [Elements of AI](https://www.elementsofai.com/), a free course by MinnaLearn and the University of Helsinki
+- [AI Guide by the AI Pedagogy Project](https://aipedagogy.org) – collection of materials by [metaLAB](https://mlml.io/about/)
 - [Slides from FF23 workshop on Intro to AI for GLAM_](https://docs.google.com/presentation/d/1dVdS3u-XS2RDexNm3RlwICCsh5gBmdi1pBARgIGnPN8) and [shared notes](https://pad.carpentries.org/intro-ai-ff2023)
 - [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html), by Sebastian Raschka
 - [Dive into Deep Learning](https://d2l.ai/index.html), by Zhang et al.
@@ -49,6 +51,12 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [A Collection of AI Demos to Discover and Explore](https://exploreai.jisc.ac.uk/) including computer vision, text and 'knowledge'-based tools
 - [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/), a free courses from a platform created by Andrew Ng
 - [Introduction to Hugging Face](https://www.codecademy.com/learn/intro-to-hugging-face), a free course by Codecademy
+
+### Computer vision
+
+- [A Gentle Introduction to Computer Vision](https://machinelearningmastery.com/what-is-computer-vision/) – from Machine Learning Mastery
+- [Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification](https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt1) – two-part intro by the Programming Historian
+
 
 ### Generative AI
 
@@ -86,6 +94,10 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [CAMPI](https://kilthub.cmu.edu/articles/preprint/CAMPI_Computer-Aided_Metadata_Generation_for_Photo_archives_Initiative/12791807) – Computer-Aided Metadata Generation for Photo archives Initiative
 - [Label Studio](https://labelstud.io) – data labeling platform to fine-tune LLMs, prepare training data or validate AI models
 - [VGG Image Annotator](https://www.robots.ox.ac.uk/~vgg/software/via/) – manual annotation software for image, audio and video
+
+### Search
+
+- [VGG Text Search (VTS) Engine](https://www.robots.ox.ac.uk/~vgg/software/vts/) – search for text strings over a user-defined image set
 
 
 ## Data Sets
