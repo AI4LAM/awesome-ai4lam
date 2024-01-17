@@ -30,7 +30,7 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
 - [Conferences and Workshops](#conferences-and-workshops)
   - [Upcoming Conferences and Workshops](#upcoming-conferences-and-workshops)
   - [Past Conferences and Workshops](#past-conferences-and-workshops)
-- [Journals](#journals)
+- [Journals and Magazines](#journals-and-magazines)
 - [Community](#community)
 - [Contributions](#contributions)
 - [License](#license)
@@ -182,8 +182,9 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 - [Fantastic Futures 2023](https://ff2023.archive.org) – Nov. 15–17 at Internet Archive Canada Headquarters, Vancouver, British Columbia, Canada.
 
 
-## Journals
+## Journals and Magazines
 
+- [AI Magazine](https://onlinelibrary.wiley.com/loi/23719621)
 - [International Journal on Digital Libraries](https://link.springer.com/journal/799)
 - [Journal of Academic Librarianship](https://www.sciencedirect.com/journal/the-journal-of-academic-librarianship/special-issue/10WVZWS842J)
 - [Journal of Librarianship and Information Science](https://journals.sagepub.com/home/LIS)
