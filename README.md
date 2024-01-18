@@ -17,6 +17,7 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
   - [Natural language processing](#natural-language-processing)
   - [Generative AI](#generative-ai)
   - [AI in galleries, libraries, archives and museums](#ai-in-galleries-libraries-archives-and-museums)
+  - [Other "awesome" lists in AI and ML](#other-awesome-lists-in-ai-and-ml)
 - [Tools and Frameworks](#tools-and-frameworks)
   - [OCR, HTR, transcription](#optical-character-recognition-handwriting-recognition-transcription)
   - [Annotation, labeling](#annotation-labeling)
@@ -67,7 +68,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 ### Natural language processing
 
 - [A Code-First Introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) – by Rachel Thomas of fast.ai
-- [Natural language processing course](https://lena-voita.github.io/nlp_course.html) – by Elena Voita
+- [Natural language processing course](https://lena-voita.github.io/nlp_course.html) – by Elena Voita (associated [GitHub repo](https://github.com/yandexdataschool/nlp_course))
 - [Natural language processing accelerated class](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw) – by Machine Learning University
 - [Deep Learning for Natural Language Processing](https://machinelearningmastery.com/category/natural-language-processing/) – from Machine Learning Mastery
 - [Hands-on NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial)
@@ -90,6 +91,21 @@ Please note: the appearance of a resource on this list does not constitute an of
 - The [AI4LAM YouTube channel](https://www.youtube.com/@ai4lam120/videos) has introductory presentations on many topics
 - The [CENL "AI in Libraries" network group](https://www.cenl.org/networkgroups/ai-in-libraries-network-group/) is also organizing webinars on AI implementation in GLAM.
 
+### Other "awesome" lists in AI and ML
+
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
+- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+- [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification#readme)
+- [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding#readme)
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
+- [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp#readme)
+- [Awesome NLP](https://github.com/keon/awesome-nlp#readme)
+- [Awesome Natural Language Generation](https://github.com/accelerated-text/awesome-nlg#readme)
+- [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer#readme)
+- [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai#readme)
+- [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning#readme)
+- [Awesome Jupyter GLAM](https://github.com/LibraryCarpentry/awesome-jupyter-glam#readme)
+- [The NLP Index](https://index.quantumstat.com)
 
 ## Tools and Frameworks
 
@@ -118,6 +134,9 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 
 ## Data Sets
+
+- [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
+- [Gensim datasets](https://github.com/piskvorky/gensim-data)
 
 
 ## Projects, Initiatives, and Case Studies
@@ -160,6 +179,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [A principled governance for emerging AI regimes: lessons from China, the European Union, and the United States](https://link.springer.com/article/10.1007/s43681-022-00205-0) by R. B. L. Dixon in _AI and Ethics_, 3, 793–810, 2023.
 - [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI](http://dx.doi.org/10.2139/ssrn.3518482) by Fjeld et al, Berkman Klein Center Research Publication No. 2020-1, 2020.
 - [What ethics do I need to consider when using AI?](https://www.muchaduabout.com/post/what-ethics-do-i-need-to-consider-when-using-ai) – blog posting by Livi Adu, Nov. 2023
+- [A cluster analysis of national AI strategies](https://www.brookings.edu/articles/a-cluster-analysis-of-national-ai-strategies/) – Brookings Institute analysis of different countries’ national AI strategies (Dec. 2023)
 
 
 ### Frameworks
