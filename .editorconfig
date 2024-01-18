@@ -1,0 +1,42 @@
+# Summary: EditorConfig file for this project.         -*- conf -*-
+#
+# For more information, see https://EditorConfig.org
+#
+# Copyright 2024 Michael Hucka.
+# License: MIT License – see file "LICENSE" in the project website.
+# Website: https://github.com/mhucka/urial
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 4
+indent_style = space
+insert_final_newline = true
+max_line_length = 90
+tab_width = 4
+trim_trailing_whitespace = true
+
+[*.cfg]
+indent_size = 2
+
+[*.json]
+indent_size = 2
+
+[*.{yml, yaml}]
+indent_size = 2
+
+# Shell scripts on Windows.
+[*.{cmd, bat}]
+end_of_line = crlf
+
+[Makefile, makefile]
+indent_size = 4
+indent_style = tab
+tab_width = 8
+
+[.applescript]
+indent_size = 4
+indent_style = tab
+tab_width = 4
