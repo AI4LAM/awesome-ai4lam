@@ -1,0 +1,90 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "Dataset",
+  "name": "Awesome AI for LAM",
+  "identifier": "awesome-ai4lam",
+  "description": "A curated list of resources, projects, and tools for using Artificial Intelligence in Libraries, Archives, and Museums",
+  "datePublished": "2024-01-17",
+  "dateCreated": "2023-11-17",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Michael",
+      "familyName": "Hucka",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "California Institute of Technology Library"
+      },
+      "email": "mhucka@caltech.edu",
+      "@id": "https://orcid.org/0000-0001-9105-5960"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Mia",
+      "familyName": "Ridge",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "British Library"
+      },
+      "email": "digitalresearch@bl.uk",
+      "@id": "https://orcid.org/0000-0003-3733-8120"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Jean-Philippe",
+      "familyName": "Moreux",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Bibliothèque nationale de France"
+      },
+      "email": "jean-philippe.moreux@bnf.fr",
+      "@id": "https://orcid.org/0000-0001-6335-0903"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Hannah",
+      "familyName": "Moutran",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "University of Texas at Austin"
+      }
+    }
+  ],
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Michael",
+      "familyName": "Hucka",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "California Institute of Technology Library"
+      },
+      "email": "mhucka@caltech.edu",
+      "@id": "https://orcid.org/0000-0001-9105-5960"
+    }
+  ],
+  "license": "https://github.com/mhucka/awesome-ai4lam/blob/main/LICENSE",
+  "isAccessibleForFree": true,
+  "codeRepository": "https://github.com/mhucka/awesome-ai4lam",
+  "readme": "https://github.com/mhucka/awesome-ai4lam/blob/main/README.md",
+  "issueTracker": "https://github.com/mhucka/awesome-ai4lam/issues",
+  "keywords": [
+    "archives",
+    "artificial intelligence",
+    "automation",
+    "computer vision",
+    "handwritten text recognition",
+    "HTR",
+    "libraries",
+    "library information management systems",
+    "library systems",
+    "machine learning",
+    "ML",
+    "natural language processing",
+    "NLP",
+    "OCR",
+    "optical character recognition",
+    "software"
+  ],
+  "developmentStatus": "active"
+}
