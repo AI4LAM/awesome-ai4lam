@@ -14,6 +14,7 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
 - [Learning Resources](#learning-resources)
   - [Introductions to AI](#introductions-to-ai)
   - [Computer vision](#computer-vision)
+  - [Natural language processing](#natural-language-processing)
   - [Generative AI](#generative-ai)
   - [AI in galleries, libraries, archives and museums](#ai-in-galleries-libraries-archives-and-museums)
 - [Tools and Frameworks](#tools-and-frameworks)
@@ -48,13 +49,13 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Introductions to AI
 
-- [Elements of AI](https://www.elementsofai.com/), a free course by MinnaLearn and the University of Helsinki
+- [Elements of AI](https://www.elementsofai.com/) – free course by MinnaLearn & University of Helsinki
 - [AI Guide by the AI Pedagogy Project](https://aipedagogy.org) – collection of materials by [metaLAB](https://mlml.io/about/)
-- [Slides from FF23 workshop on Intro to AI for GLAM_](https://docs.google.com/presentation/d/1dVdS3u-XS2RDexNm3RlwICCsh5gBmdi1pBARgIGnPN8) and [shared notes](https://pad.carpentries.org/intro-ai-ff2023)
+- [Slides from FF23 workshop on _Intro to AI for GLAM_](https://docs.google.com/presentation/d/1dVdS3u-XS2RDexNm3RlwICCsh5gBmdi1pBARgIGnPN8) and [shared notes](https://pad.carpentries.org/intro-ai-ff2023)
+- [Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58) – by Jason Mayes from Google
 - [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html), by Sebastian Raschka
 - [Dive into Deep Learning](https://d2l.ai/index.html), by Zhang et al.
-- [Nature's _Science and the new age of AI_](https://www.nature.com/immersive/d41586-023-03017-2/index.html)
-- [A Collection of AI Demos to Discover and Explore](https://exploreai.jisc.ac.uk/) including computer vision, text and 'knowledge'-based tools
+- [A Collection of AI Demos to Discover and Explore](https://exploreai.jisc.ac.uk/)
 - [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/), a free courses from a platform created by Andrew Ng
 - [Introduction to Hugging Face](https://www.codecademy.com/learn/intro-to-hugging-face), a free course by Codecademy
 
@@ -63,6 +64,15 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [A Gentle Introduction to Computer Vision](https://machinelearningmastery.com/what-is-computer-vision/) – from Machine Learning Mastery
 - [Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification](https://programminghistorian.org/en/lessons/computer-vision-deep-learning-pt1) – two-part intro by the Programming Historian
 
+### Natural language processing
+
+- [A Code-First Introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) – by Rachel Thomas of fast.ai
+- [Natural language processing course](https://lena-voita.github.io/nlp_course.html) – by Elena Voita
+- [Natural language processing accelerated class](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw) – by Machine Learning University
+- [Deep Learning for Natural Language Processing](https://machinelearningmastery.com/category/natural-language-processing/) – from Machine Learning Mastery
+- [Hands-on NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial)
+- [NLP in Python - Quickstart Guide](https://github.com/NirantK/NLP_Quickbook)
+- [Deep Learning for NLP With Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
 
 ### Generative AI
 
@@ -92,6 +102,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 ### Optical character recognition, handwriting recognition, transcription
 
 - [Transkribus](https://readcoop.eu/transkribus/) – transcription, recognition, & searching of historical documents
+- [Surya](https://github.com/VikParuchuri/surya) – multilingual document OCR toolkit with line-level text detection
 
 ### Annotation, labeling
 
