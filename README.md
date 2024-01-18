@@ -68,11 +68,11 @@ Please note: the appearance of a resource on this list does not constitute an of
 ### Natural language processing
 
 - [A Code-First Introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) – by Rachel Thomas of fast.ai
-- [Natural language processing course](https://lena-voita.github.io/nlp_course.html) – by Elena Voita (associated [GitHub repo](https://github.com/yandexdataschool/nlp_course))
+- [Natural language processing course](https://lena-voita.github.io/nlp_course.html) – by Elena Voita (associated [GitHub repo](https://github.com/yandexdataschool/nlp_course#readme))
 - [Natural language processing accelerated class](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw) – by Machine Learning University
 - [Deep Learning for Natural Language Processing](https://machinelearningmastery.com/category/natural-language-processing/) – from Machine Learning Mastery
-- [Hands-on NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial)
-- [NLP in Python - Quickstart Guide](https://github.com/NirantK/NLP_Quickbook)
+- [Hands-on NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial#readme)
+- [NLP in Python - Quickstart Guide](https://github.com/NirantK/NLP_Quickbook#readme)
 - [Deep Learning for NLP With Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
 
 ### Generative AI
@@ -82,7 +82,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118), by Google
 - [Generative AI for Beginners - A Course](https://microsoft.github.io/generative-ai-for-beginners/#/), by Microsoft
 - [Understanding Large Language Models – A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
-- [Large Language Model Course](https://github.com/mlabonne/llm-course)
+- [Large Language Model Course](https://github.com/mlabonne/llm-course#readme)
 - [A Generative AI Primer](https://nationalcentreforai.jiscinvolve.org/wp/2023/10/16/generative-ai-primer/), by the UK's National Centre for AI
 - [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) by Stephen Wolfram
 
@@ -112,13 +112,13 @@ Please note: the appearance of a resource on this list does not constitute an of
 ### Exploring/testing large language models (LLMS)
 
 - [GPT4All](https://gpt4all.io/index.html) – free, private, locally-running GPT chatbot
-- [oobabooga](https://github.com/oobabooga) – text generation web UI for multiple LLMs
-- [PrivateGPT](https://github.com/imartinez/privateGPT) – ask questions about your documents using LLMs using a private, local GPT
+- [oobabooga](https://github.com/oobabooga/text-generation-webui#readme) – text generation web UI for multiple LLMs
+- [PrivateGPT](https://github.com/imartinez/privateGPT#readme) – ask questions about your documents using LLMs using a private, local GPT
 
 ### Optical character recognition, handwriting recognition, transcription
 
 - [Transkribus](https://readcoop.eu/transkribus/) – transcription, recognition, & searching of historical documents
-- [Surya](https://github.com/VikParuchuri/surya) – multilingual document OCR toolkit with line-level text detection
+- [Surya](https://github.com/VikParuchuri/surya#readme) – multilingual document OCR toolkit with line-level text detection
 
 ### Annotation, labeling
 
@@ -135,8 +135,8 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ## Data Sets
 
-- [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
-- [Gensim datasets](https://github.com/piskvorky/gensim-data)
+- [nlp-datasets](https://github.com/niderhoff/nlp-datasets#readme)
+- [Gensim datasets](https://github.com/piskvorky/gensim-data#readme)
 
 
 ## Projects, Initiatives, and Case Studies
@@ -150,18 +150,22 @@ Please note: the appearance of a resource on this list does not constitute an of
 ### Projects by AI4LAM community members
 
 - [Audiovisual Metadata Platform (AMP)](https://uisapp2.iu.edu/confluence-prd/display/AMP/AMP%3A+Audiovisual+Metadata+Platform) – generation of metadata for discovery & use of digital audio & video collections (Indiana U., USA)
-- [Distributed Annotation 'n' Enrichment (DANE)](https://github.com/CLARIAH/DANE) – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
+- [Distributed Annotation 'n' Enrichment (DANE)](https://github.com/CLARIAH/DANE#readme) – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
 - [GallicaSNOOP](https://www.bnf.fr/sites/default/files/2022-05/Poster_Gallica_Snoop.pdf) – framework for large-scale content-based image retrieval (Bibliothèque nationale de France)
-- [inaFaceAnalyzer](https://github.com/ina-foss/inaFaceAnalyzer) – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
+- [inaFaceAnalyzer](https://github.com/ina-foss/inaFaceAnalyzer#readme) – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
 - [Maken Similarity Service](https://www.nb.no/maken/) – tools for alternative reading & finding similar photographs (National Library of Norway)
 - [Newspaper Navigator](https://labs.loc.gov/work/experiments/newspaper-navigator/) – explore visual & textual content in the _Chronicling America_ digitized newspaper collection at the Library of Congress (USA)
-- [Norwegian Transformer Model (NoTraM)](https://github.com/NBAiLab/notram) – transformer model for Norwegian and Nordic languages (National Library of Norway)
+- [Norwegian Transformer Model (NoTraM)](https://github.com/NBAiLab/notram#readme) – transformer model for Norwegian and Nordic languages (National Library of Norway)
 - [OCR correction](https://bnl.public.lu/en.html) – OCR correction tools (Bibliothèque nationale, Luxembourg)
 - [Projects in AI Registry (PAIR)](https://libraries.ou.edu/content/project-highlight-projects-ai-registry-pair) – registry of AI projects in higher education (U. Oklahoma Libraries, USA)
 - [ReTV](https://retv-project.eu) – video analysis & summarization (Modul Univesrity, Austria)
-- [Swedish BERT](https://github.com/Kungbib/swedish-bert-models) – BERT model for the Swedish language (Royal Library of Sweden)
+- [Swedish BERT](https://github.com/Kungbib/swedish-bert-models#readme) – BERT model for the Swedish language (Royal Library of Sweden)
 - [Vatican Manuscripts](https://www.youtube.com/watch?v=8khPUtwaVaw) – machine transcription in the Vatican Secret Archive
 - [Visual AI](https://www.robots.ox.ac.uk/~vgg/projects/visualai/index.html) – open-world interpretable visual transformer (UK)
+
+### Other projects related to in LAM
+
+- [Machine Learning with Archive Collections](https://blog.archiveshub.jisc.ac.uk/2022/02/28/machine-learning-with-archive-collections/)
 
 
 ## Policies and recommendations
