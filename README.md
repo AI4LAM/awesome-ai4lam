@@ -149,14 +149,18 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Projects by AI4LAM community members
 
+- [Annif](https://annif.org) – tool for automated subject indexing and classification (National Library of Finland)
 - [Audiovisual Metadata Platform (AMP)](https://uisapp2.iu.edu/confluence-prd/display/AMP/AMP%3A+Audiovisual+Metadata+Platform) – generation of metadata for discovery & use of digital audio & video collections (Indiana U., USA)
 - [Distributed Annotation 'n' Enrichment (DANE)](https://github.com/CLARIAH/DANE#readme) – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
+- [GallicaPix](https://gallicapix.bnf.fr/rest?run=findIllustrations-form.xq) – retrieval of heritage images (Bibliothèque nationale de France)
 - [GallicaSNOOP](https://www.bnf.fr/sites/default/files/2022-05/Poster_Gallica_Snoop.pdf) – framework for large-scale content-based image retrieval (Bibliothèque nationale de France)
 - [inaFaceAnalyzer](https://github.com/ina-foss/inaFaceAnalyzer#readme) – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
+- [Living with Machines](https://livingwithmachines.ac.uk) – Turing Institute & British Library
 - [Maken Similarity Service](https://www.nb.no/maken/) – tools for alternative reading & finding similar photographs (National Library of Norway)
 - [Newspaper Navigator](https://labs.loc.gov/work/experiments/newspaper-navigator/) – explore visual & textual content in the _Chronicling America_ digitized newspaper collection at the Library of Congress (USA)
 - [Norwegian Transformer Model (NoTraM)](https://github.com/NBAiLab/notram#readme) – transformer model for Norwegian and Nordic languages (National Library of Norway)
 - [OCR correction](https://bnl.public.lu/en.html) – OCR correction tools (Bibliothèque nationale, Luxembourg)
+- [Oodi](https://medium.com/headai-customer-stories/customer-story-oodi-1d1ef2554bb6) – virtual information assistant (Helsinki Central Library)
 - [Projects in AI Registry (PAIR)](https://libraries.ou.edu/content/project-highlight-projects-ai-registry-pair) – registry of AI projects in higher education (U. Oklahoma Libraries, USA)
 - [ReTV](https://retv-project.eu) – video analysis & summarization (Modul Univesrity, Austria)
 - [Swedish BERT](https://github.com/Kungbib/swedish-bert-models#readme) – BERT model for the Swedish language (Royal Library of Sweden)
