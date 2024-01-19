@@ -68,15 +68,20 @@ Please note: the appearance of a resource on this list does not constitute an of
 ### Natural language processing
 
 - [A Code-First Introduction to NLP](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) – by Rachel Thomas of fast.ai
-- [Natural language processing course](https://lena-voita.github.io/nlp_course.html) – by Elena Voita (associated [GitHub repo](https://github.com/yandexdataschool/nlp_course#readme))
-- [Natural language processing accelerated class](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw) – by Machine Learning University
-- [Deep Learning for Natural Language Processing](https://machinelearningmastery.com/category/natural-language-processing/) – from Machine Learning Mastery
+- [NLP course](https://lena-voita.github.io/nlp_course.html) and associated [GitHub repo](https://github.com/yandexdataschool/nlp_course#readme) – by Elena Voita
+- [NLP accelerated class](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw) – by Machine Learning University
+- [Overview of deep learning techniques applied to NLP (2018)](https://nlpoverview.com/index.html)
+- [Deep Learning for NLP](https://machinelearningmastery.com/category/natural-language-processing/) – from Machine Learning Mastery
 - [Hands-on NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial#readme)
 - [NLP in Python - Quickstart Guide](https://github.com/NirantK/NLP_Quickbook#readme)
 - [Deep Learning for NLP With Pytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
 
 ### Generative AI
 
+- [What are large language models (LLMs)?](https://www.youtube.com/watch?v=iR2O2GPbB0E) – (YouTube) by Google for Developers
+- [A Very Gentle Introduction to Large Language Models without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e) – by Mark Riedl
+- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) – by Stephen Wolfram
+- [A brief introduction to GenAI](https://docs.google.com/presentation/d/1X3VpadTOsUe2neFts24pURy3nNQ2k64k4d3MEqHlEgk/edit#slide=id.g25b6aed46c6_0_492) – by U. Michigan MIDAS
 - [The Map Of Transformers](https://towardsdatascience.com/the-map-of-transformers-e14952226398)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/), a visual introduction to transformers
 - [Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118), by Google
