@@ -184,15 +184,17 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [IFLA Statement on Libraries and Artificial Intelligence](https://repository.ifla.org/bitstream/123456789/1646/1/ifla_statement_on_libraries_and_artificial_intelligence-full-text.pdf)
 - [US Government _Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence_](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
 - [Canadian Government _Principles for responsible, trustworthy and privacy-protective generative AI technologies_](https://www.priv.gc.ca/en/privacy-topics/technology/artificial-intelligence/gd_principles_ai/)
+- [ACM TechBrief on Generative AI, by the ACM Technology Policy Council](https://dl.acm.org/doi/pdf/10.1145/3626110)
 
 
 ### Surveys of policies and recommendations
 
-- [AI policies across the globe: Implications and recommendations for libraries](https://doi.org/10.1177/0340035223119617) by L.&nbsp;S. Lo in _IFLA Journal_, 49(4), 645–649, 2023.
-- [A principled governance for emerging AI regimes: lessons from China, the European Union, and the United States](https://link.springer.com/article/10.1007/s43681-022-00205-0) by R. B. L. Dixon in _AI and Ethics_, 3, 793–810, 2023.
-- [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI](http://dx.doi.org/10.2139/ssrn.3518482) by Fjeld et al, Berkman Klein Center Research Publication No. 2020-1, 2020.
+- [AI policies across the globe: Implications and recommendations for libraries](https://doi.org/10.1177/0340035223119617) by L.&nbsp;S. Lo in _IFLA Journal_, 49(4), 645–649, 2023
+- [A principled governance for emerging AI regimes: lessons from China, the European Union, and the United States](https://link.springer.com/article/10.1007/s43681-022-00205-0) by R. B. L. Dixon in _AI and Ethics_, 3, 793–810, 2023
+- [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI](http://dx.doi.org/10.2139/ssrn.3518482) by Fjeld et al, Berkman Klein Center Research Publication No. 2020-1, 2020
 - [What ethics do I need to consider when using AI?](https://www.muchaduabout.com/post/what-ethics-do-i-need-to-consider-when-using-ai) – blog posting by Livi Adu, Nov. 2023
-- [A cluster analysis of national AI strategies](https://www.brookings.edu/articles/a-cluster-analysis-of-national-ai-strategies/) – Brookings Institute analysis of different countries’ national AI strategies (Dec. 2023)
+- [A cluster analysis of national AI strategies](https://www.brookings.edu/articles/a-cluster-analysis-of-national-ai-strategies/) – Brookings Institute analysis of different countries’ national AI strategies, Dec. 2023
+- [AI Governance Alliance: Briefing Paper Series](https://www.weforum.org/publications/ai-governance-alliance-briefing-paper-series/) – by the World Economic Forum, Jan. 2024
 
 
 ### Frameworks
