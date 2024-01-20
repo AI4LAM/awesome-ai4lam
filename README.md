@@ -21,8 +21,11 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
   - [AI in galleries, libraries, archives and museums](#ai-in-galleries-libraries-archives-and-museums)
   - [Other "awesome" lists in AI and ML](#other-awesome-lists-in-ai-and-ml)
 - [Tools and Frameworks](#tools-and-frameworks)
-  - [OCR, HTR, transcription](#optical-character-recognition-handwriting-recognition-transcription)
-  - [Annotation, labeling](#annotation-labeling)
+  - [Document analysis, transcription, and labeling](#document-analysis-transcription-and-labeling)
+  - [Audio and video analysis, transcription, and labeling](#audio-and-video-analysis-transcription-and-labeling)
+  - [Indexing and classification](#indexing-and-classification)
+  - [Search and retrieval](#search)
+  - [Applications of Transformers, LLMs, and GPT](http://localhost:35883/#applications-of-transformers-llms-and-gpt)
 - [Data Sets](#data-sets)
 - [Projects, Initiatives, and Case Studies](#projects-initiatives-and-case-studies)
   - [Project lists & directories](#project-lists--directories)
@@ -114,30 +117,45 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [Awesome Jupyter GLAM](https://github.com/LibraryCarpentry/awesome-jupyter-glam#readme)
 - [The NLP Index](https://index.quantumstat.com)
 
+
 ## Tools and Frameworks
 
-### Exploring/testing large language models (LLMS)
+### Document analysis, transcription, and labeling
 
-- [GPT4All](https://gpt4all.io/index.html) – free, private, locally-running GPT chatbot
-- [oobabooga](https://github.com/oobabooga/text-generation-webui#readme) – text generation web UI for multiple LLMs
-- [PrivateGPT](https://github.com/imartinez/privateGPT#readme) – ask questions about your documents using LLMs using a private, local GPT
-
-### Optical character recognition, handwriting recognition, transcription
-
-- [Transkribus](https://readcoop.eu/transkribus/) – transcription, recognition, & searching of historical documents
+- [Callico](https://teklia.com/blog/open-sourcing-callico/) – open-source web platform for document annotation
+- [Distributed Annotation 'n' Enrichment (DANE)](https://github.com/CLARIAH/DANE#readme) – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
+- [Label Studio](https://labelstud.io) – data labeling platform to fine-tune LLMs, prepare training data, or validate AI models
+- [OCR correction](https://bnl.public.lu/en.html) – OCR correction tools (Bibliothèque nationale, Luxembourg)
 - [Surya](https://github.com/VikParuchuri/surya#readme) – multilingual document OCR toolkit with line-level text detection
+- [Transkribus](https://readcoop.eu/transkribus/) – transcription, recognition, & searching of historical documents
 
-### Annotation, labeling
+### Audio and video analysis, transcription, and labeling
 
 - [Annotorious](https://annotorious.github.io) – JavaScript image annotation library
-- [Callico](https://teklia.com/blog/open-sourcing-callico/) – open-source web platform for document annotation
-- [CAMPI](https://kilthub.cmu.edu/articles/preprint/CAMPI_Computer-Aided_Metadata_Generation_for_Photo_archives_Initiative/12791807) – Computer-Aided Metadata Generation for Photo archives Initiative
-- [Label Studio](https://labelstud.io) – data labeling platform to fine-tune LLMs, prepare training data or validate AI models
+- [Audiovisual Metadata Platform (AMP)](https://uisapp2.iu.edu/confluence-prd/display/AMP/AMP%3A+Audiovisual+Metadata+Platform) – generation of metadata for discovery & use of digital audio & video collections (Indiana U., USA)
+- [CAMPI](https://kilthub.cmu.edu/articles/preprint/CAMPI_Computer-Aided_Metadata_Generation_for_Photo_archives_Initiative/12791807) – Computer-Aided Metadata Generation for Photo archives Initiative (Carnegie Mellonw U., USA)
+- [inaFaceAnalyzer](https://github.com/ina-foss/inaFaceAnalyzer#readme) – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
+- [Newspaper Navigator](https://labs.loc.gov/work/experiments/newspaper-navigator/) – explore visual & textual content in the _Chronicling America_ digitized newspaper collection (Library of Congress, USA)
+- [Oodi](https://medium.com/headai-customer-stories/customer-story-oodi-1d1ef2554bb6) – virtual information assistant (Helsinki Central Library)
+- [ReTV](https://retv-project.eu) – video analysis & summarization (Modul Univesrity, Austria)
 - [VGG Image Annotator](https://www.robots.ox.ac.uk/~vgg/software/via/) – manual annotation software for image, audio and video
 
-### Search
+### Indexing and classification
 
+- [Annif](https://annif.org) and [associated tutorial](https://github.com/NatLibFi/Annif-tutorial) – tool for automated subject indexing and classification (National Library of Finland)
+
+### Search and retrieval
+
+- [GallicaPix](https://gallicapix.bnf.fr/rest?run=findIllustrations-form.xq) – retrieval of heritage images (Bibliothèque nationale de France)
+- [GallicaSNOOP](https://www.bnf.fr/sites/default/files/2022-05/Poster_Gallica_Snoop.pdf) – framework for large-scale content-based image retrieval (Bibliothèque nationale de France)
+- [Maken Similarity Service](https://www.nb.no/maken/) – tools for alternative reading & finding similar photographs (National Library of Norway)
 - [VGG Text Search (VTS) Engine](https://www.robots.ox.ac.uk/~vgg/software/vts/) – search for text strings over a user-defined image set
+
+### Applications of Transformers, LLMs, and GPT
+
+- [Norwegian Transformer Model (NoTraM)](https://github.com/NBAiLab/notram#readme) – transformer model for Norwegian and Nordic languages (National Library of Norway)
+- [Swedish BERT](https://github.com/Kungbib/swedish-bert-models#readme) – BERT model for the Swedish language (Royal Library of Sweden)
+- [Visual AI](https://www.robots.ox.ac.uk/~vgg/projects/visualai/index.html) – open-world interpretable visual transformer (UK)
 
 
 ## Data Sets
@@ -150,53 +168,35 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Project lists & directories
 
-- [List of Artificial Intelligence (AI) initiatives in museums](https://docs.google.com/spreadsheets/d/1A7IVnucQZ0ICxYSOCjqQ1oV3xGgNzDKtIYGrk6smV7w/edit#gid=0) – compiled in 2021 by Elena Villaespesa, Oonagh Murphy and Kate Nadel for the [Museums+AI Network](https://themuseumsai.network) project.
 - [Inventory of NARA Artificial Intelligence (AI) Use Cases](https://www.archives.gov/data/ai-inventory) - the US National Archives and Records Administration (NARA)'s inventory of AI use cases
-
+- [List of Artificial Intelligence (AI) initiatives in museums](https://docs.google.com/spreadsheets/d/1A7IVnucQZ0ICxYSOCjqQ1oV3xGgNzDKtIYGrk6smV7w/edit#gid=0) – compiled in 2021 by Elena Villaespesa, Oonagh Murphy and Kate Nadel for the [Museums+AI Network](https://themuseumsai.network) project.
+- [Projects in AI Registry (PAIR)](https://libraries.ou.edu/content/project-highlight-projects-ai-registry-pair) – registry of AI projects in higher education (U. Oklahoma Libraries, USA)
 
 ### Projects by AI4LAM community members
 
-- [Annif](https://annif.org) – tool for automated subject indexing and classification (National Library of Finland)
-- [Audiovisual Metadata Platform (AMP)](https://uisapp2.iu.edu/confluence-prd/display/AMP/AMP%3A+Audiovisual+Metadata+Platform) – generation of metadata for discovery & use of digital audio & video collections (Indiana U., USA)
-- [Distributed Annotation 'n' Enrichment (DANE)](https://github.com/CLARIAH/DANE#readme) – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
-- [GallicaPix](https://gallicapix.bnf.fr/rest?run=findIllustrations-form.xq) – retrieval of heritage images (Bibliothèque nationale de France)
-- [GallicaSNOOP](https://www.bnf.fr/sites/default/files/2022-05/Poster_Gallica_Snoop.pdf) – framework for large-scale content-based image retrieval (Bibliothèque nationale de France)
-- [inaFaceAnalyzer](https://github.com/ina-foss/inaFaceAnalyzer#readme) – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
 - [Living with Machines](https://livingwithmachines.ac.uk) – Turing Institute & British Library
-- [Maken Similarity Service](https://www.nb.no/maken/) – tools for alternative reading & finding similar photographs (National Library of Norway)
-- [Newspaper Navigator](https://labs.loc.gov/work/experiments/newspaper-navigator/) – explore visual & textual content in the _Chronicling America_ digitized newspaper collection at the Library of Congress (USA)
-- [Norwegian Transformer Model (NoTraM)](https://github.com/NBAiLab/notram#readme) – transformer model for Norwegian and Nordic languages (National Library of Norway)
-- [OCR correction](https://bnl.public.lu/en.html) – OCR correction tools (Bibliothèque nationale, Luxembourg)
-- [Oodi](https://medium.com/headai-customer-stories/customer-story-oodi-1d1ef2554bb6) – virtual information assistant (Helsinki Central Library)
-- [Projects in AI Registry (PAIR)](https://libraries.ou.edu/content/project-highlight-projects-ai-registry-pair) – registry of AI projects in higher education (U. Oklahoma Libraries, USA)
-- [ReTV](https://retv-project.eu) – video analysis & summarization (Modul Univesrity, Austria)
-- [Swedish BERT](https://github.com/Kungbib/swedish-bert-models#readme) – BERT model for the Swedish language (Royal Library of Sweden)
-- [Vatican Manuscripts](https://www.youtube.com/watch?v=8khPUtwaVaw) – machine transcription in the Vatican Secret Archive
-- [Visual AI](https://www.robots.ox.ac.uk/~vgg/projects/visualai/index.html) – open-world interpretable visual transformer (UK)
-
-### Other projects related to in LAM
-
 - [Machine Learning with Archive Collections](https://blog.archiveshub.jisc.ac.uk/2022/02/28/machine-learning-with-archive-collections/)
+- [Vatican Manuscripts](https://www.youtube.com/watch?v=8khPUtwaVaw) – machine transcription in the Vatican Secret Archive
 
 
 ## Policies and recommendations
 
 ### Statements by organizations and government bodies
 
+- [ACM TechBrief on Generative AI, by the ACM Technology Policy Council](https://dl.acm.org/doi/pdf/10.1145/3626110)
+- [Canadian Government _Principles for responsible, trustworthy and privacy-protective generative AI technologies_](https://www.priv.gc.ca/en/privacy-topics/technology/artificial-intelligence/gd_principles_ai/)
 - [IFLA Statement on Libraries and Artificial Intelligence](https://repository.ifla.org/bitstream/123456789/1646/1/ifla_statement_on_libraries_and_artificial_intelligence-full-text.pdf)
 - [US Government _Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence_](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
-- [Canadian Government _Principles for responsible, trustworthy and privacy-protective generative AI technologies_](https://www.priv.gc.ca/en/privacy-topics/technology/artificial-intelligence/gd_principles_ai/)
-- [ACM TechBrief on Generative AI, by the ACM Technology Policy Council](https://dl.acm.org/doi/pdf/10.1145/3626110)
 
 
 ### Surveys of policies and recommendations
 
-- [AI policies across the globe: Implications and recommendations for libraries](https://doi.org/10.1177/0340035223119617) by L.&nbsp;S. Lo in _IFLA Journal_, 49(4), 645–649, 2023
+- [A cluster analysis of national AI strategies](https://www.brookings.edu/articles/a-cluster-analysis-of-national-ai-strategies/) – Brookings Institute analysis of different countries’ national AI strategies, Dec. 2023
 - [A principled governance for emerging AI regimes: lessons from China, the European Union, and the United States](https://link.springer.com/article/10.1007/s43681-022-00205-0) by R. B. L. Dixon in _AI and Ethics_, 3, 793–810, 2023
+- [AI Governance Alliance: Briefing Paper Series](https://www.weforum.org/publications/ai-governance-alliance-briefing-paper-series/) – by the World Economic Forum, Jan. 2024
+- [AI policies across the globe: Implications and recommendations for libraries](https://doi.org/10.1177/0340035223119617) by L.&nbsp;S. Lo in _IFLA Journal_, 49(4), 645–649, 2023
 - [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI](http://dx.doi.org/10.2139/ssrn.3518482) by Fjeld et al, Berkman Klein Center Research Publication No. 2020-1, 2020
 - [What ethics do I need to consider when using AI?](https://www.muchaduabout.com/post/what-ethics-do-i-need-to-consider-when-using-ai) – blog posting by Livi Adu, Nov. 2023
-- [A cluster analysis of national AI strategies](https://www.brookings.edu/articles/a-cluster-analysis-of-national-ai-strategies/) – Brookings Institute analysis of different countries’ national AI strategies, Dec. 2023
-- [AI Governance Alliance: Briefing Paper Series](https://www.weforum.org/publications/ai-governance-alliance-briefing-paper-series/) – by the World Economic Forum, Jan. 2024
 
 
 ### Frameworks
