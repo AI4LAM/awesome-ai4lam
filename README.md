@@ -26,7 +26,7 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
   - [Indexing and classification](#indexing-and-classification)
   - [Search and retrieval](#search-and-retrieval)
   - [Applications of Transformers, LLMs, and GPT](http://localhost:35883/#applications-of-transformers-llms-and-gpt)
-- [Data Sets](#data-sets)
+- [Datasets](#datasets)
 - [Projects, Initiatives, and Case Studies](#projects-initiatives-and-case-studies)
   - [Project lists & directories](#project-lists--directories)
   - [Projects by AI4LAM community members](#projects-by-ai4lam-community-members)
@@ -120,17 +120,23 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ## Tools and Frameworks
 
+Note: datasets for training and testing are listed in a [separate section](#datasets) of this document.
+
 ### Document analysis, transcription, and labeling
 
 - [Callico](https://teklia.com/blog/open-sourcing-callico/) – open-source web platform for document annotation
 - [Distributed Annotation 'n' Enrichment (DANE)](https://github.com/CLARIAH/DANE#readme) – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
+- [HTRFLOW demo](https://huggingface.co/spaces/Riksarkivet/htr_demo) and associated [GitHub repo](https://github.com/Swedish-National-Archives-AI-lab/htrflow_app) – explore AI models for Handwritten Text Recogntion (Swedish National Archives)
 - [Label Studio](https://labelstud.io) – data labeling platform to fine-tune LLMs, prepare training data, or validate AI models
 - [OCR correction](https://bnl.public.lu/en.html) – OCR correction tools (Bibliothèque nationale, Luxembourg)
 - [Surya](https://github.com/VikParuchuri/surya#readme) – multilingual document OCR toolkit with line-level text detection
+- [Text models from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
 - [Transkribus](https://readcoop.eu/transkribus/) – transcription, recognition, & searching of historical documents
+
 
 ### Audio and video analysis, transcription, and labeling
 
+- [Acoustic models from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
 - [Annotorious](https://annotorious.github.io) – JavaScript image annotation library
 - [Audiovisual Metadata Platform (AMP)](https://uisapp2.iu.edu/confluence-prd/display/AMP/AMP%3A+Audiovisual+Metadata+Platform) – generation of metadata for discovery & use of digital audio & video collections (Indiana U., USA)
 - [CAMPI](https://kilthub.cmu.edu/articles/preprint/CAMPI_Computer-Aided_Metadata_Generation_for_Photo_archives_Initiative/12791807) – Computer-Aided Metadata Generation for Photo archives Initiative (Carnegie Mellonw U., USA)
@@ -149,20 +155,27 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [GallicaPix](https://gallicapix.bnf.fr/rest?run=findIllustrations-form.xq) – retrieval of heritage images (Bibliothèque nationale de France)
 - [GallicaSNOOP](https://www.bnf.fr/sites/default/files/2022-05/Poster_Gallica_Snoop.pdf) – framework for large-scale content-based image retrieval (Bibliothèque nationale de France)
 - [Maken Similarity Service](https://www.nb.no/maken/) – tools for alternative reading & finding similar photographs (National Library of Norway)
+- [Semantic search for Nasjonalmuseet’s online collection](https://beta.nasjonalmuseet.no/2023/08/add-semantic-search-to-a-online-collection/) – open beta test (National Museum of Norway)
 - [VGG Text Search (VTS) Engine](https://www.robots.ox.ac.uk/~vgg/software/vts/) – search for text strings over a user-defined image set
 
 ### Applications of Transformers, LLMs, and GPT
 
+- [BERTopic](https://maartengr.github.io/BERTopic/index.html) – topic modeling technique that leverages Transformers and c-TF-IDF
+- [Chatbot for Luxembourgish newspapers](https://chat.eluxemburgensia.lu/login?next=/) – uses ChatGPT and understands French, German and English (Bibliothèque nationale de Luxembourg)
 - [Norwegian Transformer Model (NoTraM)](https://github.com/NBAiLab/notram#readme) – transformer model for Norwegian and Nordic languages (National Library of Norway)
 - [Swedish BERT](https://github.com/Kungbib/swedish-bert-models#readme) – BERT model for the Swedish language (Royal Library of Sweden)
 - [Visual AI](https://www.robots.ox.ac.uk/~vgg/projects/visualai/index.html) – open-world interpretable visual transformer (UK)
 
 
-## Data Sets
+## Datasets
 
-- [nlp-datasets](https://github.com/niderhoff/nlp-datasets#readme)
-- [Gensim datasets](https://github.com/piskvorky/gensim-data#readme)
-
+- [Datasets from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
+- [Gensim datasets](https://github.com/piskvorky/gensim-data#readme) – repository of datasets for unstructured text processing
+- [HTR-United](https://htr-united.github.io) – datasets for training transcription or segmentation models
+- [Kaggle datasets](https://www.kaggle.com/datasets)
+- [nlp-datasets](https://github.com/niderhoff/nlp-datasets#readme) – free/public domain datasets with text data for use in NLP
+- [Open Library data dumps](https://openlibrary.org/developers/dumps) – from the Internet Archive
+- [Registry of Open Data on AWS](https://registry.opendata.aws) – datasets tagged by topic
 
 ## Projects, Initiatives, and Case Studies
 
