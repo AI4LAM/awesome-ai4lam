@@ -3,9 +3,11 @@
 A curated list of resources, projects, and tools for using Artificial Intelligence in Libraries, Archives, and Museums.
 
 [![License](https://img.shields.io/badge/License-CC0-blue.svg?style=flat-square)](https://github.com/AI4LAM/awesome-ai4lam/blob/master/LICENSE)
-![Maintained?](https://img.shields.io/badge/Maintained%3F%2dyes-orange.svg?style=flat-square)
-![GitHub contributors](https://img.shields.io/github/contributors/AI4LAM/awesome-ai4lam?label=Contributors&style=flat-square&color=b44e88)
-[![Last commit](https://img.shields.io/github/last-commit/AI4LAM/awesome-ai4lam.svg?style=flat-square&color=forestgreen&label=Last%20commit)](https://github.com/AI4LAM/awesome-ai4lam/commits/main/)
+![Maintained?](https://img.shields.io/badge/Maintained%3F%2dyes-forestgreen.svg?style=flat-square)
+[![Last commit](https://img.shields.io/github/last-commit/AI4LAM/awesome-ai4lam.svg?style=flat-square&color=orange&label=Last%20commit)](https://github.com/AI4LAM/awesome-ai4lam/commits/main/)
+![GitHub contributors](https://img.shields.io/github/contributors/AI4LAM/awesome-ai4lam?label=Contributors&style=flat-square&color=a44e88)
+[![Mastodon](https://img.shields.io/badge/Mastodon-7334cF?style=flat-square&logo=Mastodon&logoColor=white)](https://glammr.us/@AI4LAM)
+[![Slack](https://img.shields.io/badge/Slack-5A255B?style=flat-square&logo=slack&logoColor=white)](https://ai4lam.slack.com/join/shared_invite/zt-1omthldn8-9vrGySjIRdija1nKQm0ltA#/)
 
 
 ## Contents
