@@ -25,7 +25,7 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
   - [Audio and video analysis, transcription, and labeling](#audio-and-video-analysis-transcription-and-labeling)
   - [Indexing and classification](#indexing-and-classification)
   - [Search and retrieval](#search-and-retrieval)
-  - [Applications of Transformers, LLMs, and GPT](http://localhost:35883/#applications-of-transformers-llms-and-gpt)
+  - [Applications of Transformers, LLMs, and GPT](#applications-of-transformers-llms-and-gpt)
 - [Datasets](#datasets)
 - [Projects, Initiatives, and Case Studies](#projects-initiatives-and-case-studies)
   - [Project lists & directories](#project-lists--directories)
