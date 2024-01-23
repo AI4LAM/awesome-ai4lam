@@ -263,6 +263,7 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 - [Library Resources & Technical Services](https://journals.ala.org/index.php/lrts)
 - [Literary and Linguistic Computing](https://dl.acm.org/journal/lilc)
 - [Social Science Computer Review](https://journals.sagepub.com/description/SSC)
+- [World Digital Libraries – An International Journal](https://content.iospress.com/journals/world-digital-libraries-an-international-journal)
 
 
 ## Community
