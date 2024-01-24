@@ -250,6 +250,7 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 - [Archival Science](https://link.springer.com/journal/10502)
 - [Big Data & Society](https://journals.sagepub.com/home/bds)
 - [Critical AI](https://criticalai.org)
+- [Digital Humanities Quarterly](https://digitalhumanities.org/dhq/)
 - [Digital Scholarship in the Humanities](https://academic.oup.com/dsh)
 - [International Journal on Digital Libraries](https://link.springer.com/journal/799)
 - [Journal of Academic Librarianship](https://www.sciencedirect.com/journal/the-journal-of-academic-librarianship/special-issue/10WVZWS842J)
