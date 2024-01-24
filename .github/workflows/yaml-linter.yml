@@ -1,0 +1,30 @@
+# Summary: GitHub Actions workflow to run a YAML linter on .yml files.
+
+name: YAMLlint
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+    paths:
+      - '**.yml'
+      - '**.yaml'
+  push:
+    branches:
+      - main
+    paths:
+      - '**.yml'
+      - '**.yaml'
+
+run-name: Run linter on YAML files
+jobs:
+  Yamllint:
+    name: GitHub YAMLlint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out copy of git repository
+        uses: actions/checkout@v4
+
+      - name: Run YAMLlint
+        uses: ibiqlik/action-yamllint@v3
+        with:
+          config_file: .yamllint.yml
