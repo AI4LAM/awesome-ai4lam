@@ -1,7 +1,7 @@
 name: Request an addition to the list
 description: Suggest an item to be added to this awesome list
 title: "[ADD] "
-labels: ['addition']
+labels: [addition]
 body:
   - type: markdown
     attributes:
