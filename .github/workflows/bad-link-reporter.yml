@@ -1,8 +1,8 @@
-# GitHub Actions workflow for Baler (BAd Link reportER) version 0.0.2.
+# GitHub Actions workflow for Baler (BAd Link reportER) version 1.0.0.
 # This is available as the file "sample-workflow.yml" from the source
-# code repository for Baler: https://github.com/caltechlibrary/baler/
+# code repository for Baler: https://github.com/caltechlibrary/baler
 
-name: "Bad Link Reporter"
+name: Bad Link Reporter
 
 # Configure this section ─────────────────────────────────────────────
 
@@ -11,33 +11,38 @@ env:
   files: '*.md'
 
   # Label assigned to issues created by this workflow:
-  labels: 'bug'
+  labels: bug
+
+  # Number of previous issues to check for duplicate reports.
+  lookback: 10
+
+  # Time (sec) to wait on an unresponsive URL before trying once more.
+  timeout: 15
 
   # Optional file containing a list of URLs to ignore, one per line:
-  ignore: '.github/workflows/ignored-urls.txt'
+  ignore: .github/workflows/ignored-urls.txt
 
 on:
-  schedule:
-    # Syntax is: "minute  hour  day-of-month  month  day-of-week"
-    - cron: "00 04 * * *"
+  schedule:  # Cron syntax is: "min hr day-of-month month day-of-week"
+    - cron: 00 04 * * 1
   push:
-    branches:
-      - main
-    paths:
-      - .github/workflows/bad-link-reporter.yml
-      - .github/workflows/ignored-urls.txt
+    paths: ['**.md']
   workflow_dispatch:
 
 # The rest of this file should be left as-is ─────────────────────────
 
-run-name: Test links in files
+run-name: Test links in Markdown files
 jobs:
-  run-baler:
-    name: Run Bad Link Reporter
+  Baler:
+    name: Link checker and reporter
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
     steps:
       - uses: caltechlibrary/baler@main
         with:
-          files:  ${{github.event.inputs.files  || env.files}}
-          labels: ${{github.event.inputs.labels || env.labels}}
-          ignore: ${{github.event.inputs.ignore || env.ignore}}
+          files:    ${{github.event.inputs.files    || env.files}}
+          labels:   ${{github.event.inputs.labels   || env.labels}}
+          ignore:   ${{github.event.inputs.ignore   || env.ignore}}
+          timeout:  ${{github.event.inputs.timeout  || env.timeout}}
+          lookback: ${{github.event.inputs.lookback || env.lookback}}
