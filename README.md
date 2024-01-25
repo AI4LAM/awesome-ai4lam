@@ -83,10 +83,11 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Generative AI
 
-- [What are large language models (LLMs)?](https://www.youtube.com/watch?v=iR2O2GPbB0E) – (YouTube) by Google for Developers
 - [A Very Gentle Introduction to LLMs without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e) – by Mark Riedl
-- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) – by Stephen Wolfram
+- [What are large language models (LLMs)?](https://www.youtube.com/watch?v=iR2O2GPbB0E) – (YouTube) by Google for Developers
 - [A brief introduction to GenAI](https://docs.google.com/presentation/d/1X3VpadTOsUe2neFts24pURy3nNQ2k64k4d3MEqHlEgk/edit#slide=id.g25b6aed46c6_0_492) – by U. Michigan MIDAS
+- [Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone?irclickid=S5hzeGTIExyPTTOSNn2PRyfHUkHzH8TNw0Bo1c0&irgwc=1) – free Coursera course by Andrew Ng
+- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) – by Stephen Wolfram
 - [The Map Of Transformers](https://towardsdatascience.com/the-map-of-transformers-e14952226398)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/), a visual introduction to transformers
 - [Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118), by Google
@@ -94,7 +95,6 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [Understanding LLMs – A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html)
 - [Large Language Model Course](https://github.com/mlabonne/llm-course#readme)
 - [A Generative AI Primer](https://nationalcentreforai.jiscinvolve.org/wp/2023/10/16/generative-ai-primer/), by the UK's National Centre for AI
-- [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) by Stephen Wolfram
 
 ### AI in galleries, libraries, archives and museums
 
