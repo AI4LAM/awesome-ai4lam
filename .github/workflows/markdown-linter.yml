@@ -3,7 +3,7 @@
 # @license Please see the file named LICENSE in the repository
 # @repo    https://github.com/AI4LAM/awesome-ai4lam
 
-name: Lint Markdown files
+name: Markdown linter
 run-name: Lint Markdown files after ${{github.event_name}} by ${{github.actor}}
 
 on:
