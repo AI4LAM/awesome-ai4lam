@@ -1,4 +1,4 @@
-# GitHub Actions workflow for Baler (BAd Link reportER) version 1.0.0.
+# GitHub Actions workflow for Baler (BAd Link reportER) version 2.0.0.
 # This is available as the file "sample-workflow.yml" from the source
 # code repository for Baler: https://github.com/caltechlibrary/baler
 
@@ -39,7 +39,7 @@ jobs:
     permissions:
       issues: write
     steps:
-      - uses: caltechlibrary/baler@v1
+      - uses: caltechlibrary/baler@v2
         with:
           files:    ${{github.event.inputs.files    || env.files}}
           labels:   ${{github.event.inputs.labels   || env.labels}}
