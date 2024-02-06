@@ -49,7 +49,7 @@ This list is a collection of resources, tools, projects, and other materials for
 
 This list is maintained by the [AI4LAM](https://www.ai4lam.org/) community. Its aim is to support knowledge sharing, innovation, and collaboration in applying AI to LAM.
 
-## Learning Resources<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
+## Learning Resources<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
 
 Please note: the appearance of a resource on this list does not constitute an official endorsement by AI4LAM.
 
@@ -119,7 +119,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [The NLP Index](https://index.quantumstat.com)
 
 
-## Tools and Frameworks<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
+## Tools and Frameworks<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
 
 Note: datasets for training and testing are listed in a [separate section](#datasets) of this document.
 
@@ -168,7 +168,7 @@ Note: datasets for training and testing are listed in a [separate section](#data
 - [Visual AI](https://www.robots.ox.ac.uk/~vgg/projects/visualai/index.html) – open-world interpretable visual transformer (UK)
 
 
-## Datasets<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
+## Datasets<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
 
 - [Datasets from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
 - [Gensim datasets](https://github.com/piskvorky/gensim-data#readme) – repository of datasets for unstructured text processing
@@ -180,7 +180,7 @@ Note: datasets for training and testing are listed in a [separate section](#data
 - [HTR datasets in Zenodo](https://zenodo.org/search?q=metadata.subjects.subject%3A%22handwritten%20text%20recognition%22&l=list&p=1&s=10&sort=bestmatch) – based on subject search in Zenodo
 
 
-## Projects, Initiatives, and Case Studies<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
+## Projects, Initiatives, and Case Studies<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
 
 ### Project lists & directories
 
@@ -195,7 +195,7 @@ Note: datasets for training and testing are listed in a [separate section](#data
 - [Vatican Manuscripts](https://www.youtube.com/watch?v=8khPUtwaVaw) – machine transcription in the Vatican Secret Archive
 
 
-## Policies and recommendations<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
+## Policies and recommendations<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
 
 ### Statements by organizations and government bodies
 
@@ -221,7 +221,7 @@ Note: datasets for training and testing are listed in a [separate section](#data
 - [A Framework for U.S. AI Governance: Creating a Safe and Thriving AI Sector](https://computing.mit.edu/wp-content/uploads/2023/11/AIPolicyBrief.pdf) white paper by the MIT Schwarzman College of Computing, Dec. 11, 2023. (See also [related article in MIT News](https://news.mit.edu/2023/mit-group-releases-white-papers-governance-ai-1211).)
 
 
-## Conferences and Workshops<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
+## Conferences and Workshops<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
 
 The annual _Fantastic Futures_ conference is the main conference series for the AI4LAM community. Various other conferences and workshops are relevant to the community and may be included in the list below.
 
@@ -247,7 +247,7 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 - [Fantastic Futures 2023](https://ff2023.archive.org) – Nov. 15–17 at Internet Archive Canada Headquarters, Vancouver, British Columbia, Canada.
 
 
-## Journals and Magazines<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
+## Journals and Magazines<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
 
 - [AI & Society](https://link.springer.com/journal/146/articles)
 - [AI Magazine](https://onlinelibrary.wiley.com/loi/23719621)
@@ -282,7 +282,7 @@ Your help and participation in enhancing this awesome list are very much welcome
 
 <p align="center">
 <a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition">
-  <img src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition.svg">
+  <img alt="Click button to suggest an addition" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition.svg">
  </a>
 </p>
 
