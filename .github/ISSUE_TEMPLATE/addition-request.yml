@@ -6,20 +6,18 @@ body:
   - type: markdown
     attributes:
       value: |
-        _Note: if you want to make more than one addition, **please request each one as a separate issue**. This makes it easier to track and respond to requests._
+        _Note: if you want to suggest more than one addition, **please request each one separately**._
 
-  - type: textarea
+  - type: input
     attributes:
       label: What is the URL for the item?
-      placeholder: |
-        https://github.com/ai4lam/awesome-ai4lam
     validations:
       required: true
 
   - type: textarea
     attributes:
-      label: How should the item be described?
-      description: The item will be linked, and a description will be added next to it. Please write a suitable description to be used for that purpose. Note that conciseness is important! Please take a look at the existing awesome-ai4lam list to get an idea of what is intended here.
+      label: What is a suitable title and brief description?
+      description: Please suggest a title for the link, and optionally, a **concise** description to be put next to it. (See the existing list for examples.)
     validations:
       required: true
 
@@ -27,7 +25,6 @@ body:
     id: section
     attributes:
       label: What section does it belong in?
-      description: Please pick from the following list
       options:
         - Learning Resources
         - Tools and Frameworks
@@ -36,14 +33,13 @@ body:
         - Policies and recommendations
         - Conferences and Workshops
         - Journals and Magazines
-        - Other (see next question)
+        - —Other— (see next question)
     validations:
       required: true
 
   - type: textarea
     attributes:
-      label: Does it belong in a new section?
-      description: If you answered "Other" to the previous question, please suggest a section that should be added to the AI4LAM Awesome List.
+      label: If you selected "other", what new section do you propose?
     validations:
       required: false
 
@@ -51,6 +47,6 @@ body:
     attributes:
       label: Final checklist
       options:
-        - label: I have verified that the item does not already exist in the list
+        - label: I have searched the existing list to verify that this item is not in it.
     validations:
       required: true
