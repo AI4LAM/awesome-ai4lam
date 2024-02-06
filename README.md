@@ -56,6 +56,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 ### Introductions to AI
 
 - [Elements of AI](https://www.elementsofai.com/) – free course by MinnaLearn & University of Helsinki
+- [Introduction to AI for GLAM](https://carpentries-incubator.github.io/machine-learning-librarians-archivists/) – by Library Carpentries
 - [AI Guide by the AI Pedagogy Project](https://aipedagogy.org) – collection of materials by [metaLAB](https://mlml.io/about/)
 - [Slides from FF23 workshop on _Intro to AI for GLAM_](https://docs.google.com/presentation/d/1dVdS3u-XS2RDexNm3RlwICCsh5gBmdi1pBARgIGnPN8) and [shared notes](https://pad.carpentries.org/intro-ai-ff2023)
 - [Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58) – by Jason Mayes from Google
