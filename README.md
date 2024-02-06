@@ -177,6 +177,8 @@ Note: datasets for training and testing are listed in a [separate section](#data
 - [nlp-datasets](https://github.com/niderhoff/nlp-datasets#readme) – free/public domain datasets with text data for use in NLP
 - [Open Library data dumps](https://openlibrary.org/developers/dumps) – from the Internet Archive
 - [Registry of Open Data on AWS](https://registry.opendata.aws) – datasets tagged by topic
+- [HTR datasets in Zenodo](https://zenodo.org/search?q=metadata.subjects.subject%3A%22handwritten%20text%20recognition%22&l=list&p=1&s=10&sort=bestmatch) – based on subject search in Zenodo
+
 
 ## Projects, Initiatives, and Case Studies
 
