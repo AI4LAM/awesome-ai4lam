@@ -49,6 +49,12 @@ This list is a collection of resources, tools, projects, and other materials for
 
 This list is maintained by the [AI4LAM](https://www.ai4lam.org/) community. Its aim is to support knowledge sharing, innovation, and collaboration in applying AI to LAM.
 
+<p align="center">
+<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition">
+  <img src=".graphics/suggest-addition.svg">
+ </a>
+</p>
+
 ## Learning Resources
 
 Please note: the appearance of a resource on this list does not constitute an official endorsement by AI4LAM.
@@ -278,6 +284,12 @@ The AI4LAM community's home page is [https://ai4lam.org](https://ai4lam.org/). T
 ## Contributions
 
 Your help and participation in enhancing this awesome list are very much welcome! Please use the [issue ticket system](https://github.com/AI4LAM/awesome-ai4lam/issues) to request additions or changes, or to make other contributions to this repository. For more information, please visit the [guidelines for contributing](CONTRIBUTING.md).
+
+<p align="center">
+<a title="Suggest an addition to the list!" href="https://github.com/AI4LAM/awesome-ai4lam//issues/new?template=addition-request.yml&labels=addition">
+  <img src=".graphics/suggest-addition.svg">
+ </a>
+</p>
 
 
 ## License
