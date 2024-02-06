@@ -1,0 +1,6 @@
+<svg width="145" height="45" viewBox="0 -10 160 67" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="rotate(5) translate(-25 0) scale(1.5 1.5)">
+    <rect width="140" height="20" rx="3" fill="#2986cc"></rect>
+    <text transform="translate(8 13.5)" fill="white" letter-spacing="1" font-size="12" font-family="Mona Sans,Helvetica,Arial,Sans"><tspan x="0" y="0">Suggest an addition</tspan></text>
+  </g>
+</svg>
