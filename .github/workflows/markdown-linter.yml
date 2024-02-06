@@ -3,7 +3,7 @@
 # @license Please see the file named LICENSE in the repository
 # @repo    https://github.com/AI4LAM/awesome-ai4lam
 
-name: Markdown linter
+name: Markdown file linter
 run-name: Lint Markdown files after ${{github.event_name}} by ${{github.actor}}
 
 on:
@@ -26,9 +26,12 @@ jobs:
     name: Run Markdown linter
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - uses: DavidAnson/markdownlint-cli2-action@v13
-      with:
-        config: .markdownlint.json
-        globs: |
-          *.md
+      - name: Check out copy of git repository.
+        uses: actions/checkout@v4
+
+      - name: Run Markdownlint on .md files.
+        uses: DavidAnson/markdownlint-cli2-action@v15
+        with:
+          config: .markdownlint.json
+          globs: |
+            *.md
