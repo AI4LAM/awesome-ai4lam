@@ -27,7 +27,7 @@ body:
     id: section
     attributes:
       label: What section does it belong in?
-      description: Please pick an existing section or subsection, or propose a new section title.
+      description: Please pick from the following list
       options:
         - Learning Resources
         - Tools and Frameworks
@@ -36,8 +36,16 @@ body:
         - Policies and recommendations
         - Conferences and Workshops
         - Journals and Magazines
+        - Other (see next question)
     validations:
       required: true
+
+  - type: textarea
+    attributes:
+      label: Does it belong in a new section?
+      description: If you answered "Other" to the previous question, please suggest a section that should be added to the AI4LAM Awesome List.
+    validations:
+      required: false
 
   - type: checkboxes
     attributes:
