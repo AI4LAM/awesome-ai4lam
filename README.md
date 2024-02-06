@@ -230,7 +230,8 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 👋🏻 **Note**: AI4LAM's [conferences tracker Google sheet](https://docs.google.com/spreadsheets/d/1jO8dKt0CuhZKq382OZRdMSGOU3OpJhgK2nJ-FAynbeo/edit#gid=1287495458) has a more complete list of events. The following is a list of larger and/or especially relevant events for AI4LAM.
 
 - [IIPC General Assembly &amp; Web Archiving Conference](https://netpreserve.org/ga2024/) – Apr. 24–26 at the Bibliothèque nationale de France, Paris, France.
-- [International Conference on Document Analysis and Recognition (ICDAR) 2024](https://icdar2024.net) – Aug. 30–Sep. 4 in Athens, Greece
+- [Digital Library Federation (DLF) 2024 Forum](https://forum2024.diglib.org) – July 29–31 at Michigan State U., East Lansing, Michigan, USA.
+- [International Conference on Document Analysis and Recognition (ICDAR) 2024](https://icdar2024.net) – Aug. 30–Sep. 4 in Athens, Greece.
 - [International Conference on Digital Preservation (iPRES) 2024](https://ipres2024.pubpub.org) – Sep. 16–20 in Ghent & Flanders, Belgium.
 - [Fantastic Futures 2024](https://www.nfsa.gov.au/fantastic-futures-canberra-2024-artificial-intelligence-libraries-archives-and-museums) – Oct. 16–18 at the National Film and Sound Archive of Australia (NFSA), Canberra, Australia.
 - [ai4Libraries Conference](https://www.ai4libraries.org) – Oct. 23 and/or 24 virtual event hosted by Georgia Tech Library, Atlanta, Georgia, USA.
