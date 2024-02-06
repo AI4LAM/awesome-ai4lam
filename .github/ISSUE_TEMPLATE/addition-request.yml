@@ -1,4 +1,4 @@
-name: Request an addition to the list
+name: Suggest an addition to the list
 description: Suggest an item to be added to this awesome list
 title: "[ADD] "
 labels: [addition]
@@ -23,10 +23,19 @@ body:
     validations:
       required: true
 
-  - type: textarea
+  - type: dropdown
+    id: section
     attributes:
       label: What section does it belong in?
       description: Please pick an existing section or subsection, or propose a new section title.
+      options:
+        - Learning Resources
+        - Tools and Frameworks
+        - Datasets
+        - Projects, Initiatives, and Case Studies
+        - Policies and recommendations
+        - Conferences and Workshops
+        - Journals and Magazines
     validations:
       required: true
 
