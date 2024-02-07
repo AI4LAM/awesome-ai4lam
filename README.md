@@ -104,18 +104,23 @@ Please note: the appearance of a resource on this list does not constitute an of
 
 ### Other "awesome" lists in AI and ML
 
-- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-- [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification#readme)
-- [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding#readme)
-- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
 - [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp#readme)
-- [Awesome NLP](https://github.com/keon/awesome-nlp#readme)
-- [Awesome Natural Language Generation](https://github.com/accelerated-text/awesome-nlg#readme)
-- [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer#readme)
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
+- [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
+- [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
+- [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding#readme)
 - [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai#readme)
-- [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning#readme)
+- [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification#readme)
 - [Awesome Jupyter GLAM](https://github.com/LibraryCarpentry/awesome-jupyter-glam#readme)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
+- [Awesome Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
+- [Awesome Natural Language Generation](https://github.com/accelerated-text/awesome-nlg#readme)
+- [Awesome NLP](https://github.com/keon/awesome-nlp#readme)
+- [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning#readme)
+- [Awesome Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme)
+- [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer#readme)
+- [Awesome XAI](https://github.com/altamiracorp/awesome-xai#readme)
 - [The NLP Index](https://index.quantumstat.com)
 
 
