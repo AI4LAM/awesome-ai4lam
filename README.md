@@ -114,6 +114,7 @@ Please note: the appearance of a resource on this list does not constitute an of
 - [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai#readme)
 - [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification#readme)
 - [Awesome Jupyter GLAM](https://github.com/LibraryCarpentry/awesome-jupyter-glam#readme)
+- [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#readme)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
 - [Awesome Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
 - [Awesome Natural Language Generation](https://github.com/accelerated-text/awesome-nlg#readme)
