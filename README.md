@@ -180,7 +180,8 @@ Note: datasets for training and testing are listed in a [separate section](#data
 
 - [Datasets from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
 - [Gensim datasets](https://github.com/piskvorky/gensim-data#readme) – repository of datasets for unstructured text processing
-- [HTR datasets in Zenodo](https://zenodo.org/search?q=metadata.subjects.subject%3A%22handwritten%20text%20recognition%22&l=list&p=1&s=10&sort=bestmatch) – based on subject search in Zenodo
+- [HTR datasets in Hugging Face)(https://huggingface.co/search/full-text?q=Handwritten+Text+Recognition&type=dataset) – subject search in Hugging Face
+- [HTR datasets in Zenodo](https://zenodo.org/search?q=metadata.subjects.subject%3A%22handwritten%20text%20recognition%22&l=list&p=1&s=10&sort=bestmatch) – subject search in Zenodo
 - [HTR-United](https://htr-united.github.io) – datasets for training transcription or segmentation models
 - [Kaggle datasets](https://www.kaggle.com/datasets)
 - [nlp-datasets](https://github.com/niderhoff/nlp-datasets#readme) – free/public domain datasets with text data for use in NLP
