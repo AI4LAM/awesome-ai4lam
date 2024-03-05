@@ -27,9 +27,11 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
   - [Search and retrieval](#search-and-retrieval)
   - [Applications of Transformers, LLMs, and GPT](#applications-of-transformers-llms-and-gpt)
 - [Datasets](#datasets)
+  - [Datasets available on Hugging Face](#datasets-available-on-hugging-face)
+  - [Datasets available elsewhere](#datasets-available-elsewhere)
 - [Projects, Initiatives, and Case Studies](#projects-initiatives-and-case-studies)
   - [Project lists & directories](#project-lists--directories)
-  - [Projects by AI4LAM community members](#projects-by-ai4lam-community-members)
+  - [Select individual projects](#select-individual-projects)
 - [Policies and recommendations](#policies-and-recommendations)
   - [Statements by organizations and government bodies](#statements-by-organizations-and-government-bodies)
   - [Surveys of policies and recommendations](#surveys-of-policies-and-recommendations)
@@ -178,15 +180,29 @@ Note: datasets for training and testing are listed in a [separate section](#data
 
 ## Datasets<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
 
-- [Datasets from the National Library of Sweden](https://huggingface.co/KBLab) – available on Hugging Face
+### Datasets available on Hugging Face
+
+There are many (G)LAM-related datasets on Hugging Face. The following links will perform live searches directly in Hugging Face for datasets tagged with the given terms:
+
+- [Full-text search for "handwritten text recognition"](https://huggingface.co/search/full-text?q=handwritten%20text%20recognition&type=dataset)
+- [Full-text search for "optical text recognition"](https://huggingface.co/search/full-text?q=optical%20character%20recognition&type=dataset)
+- [Datasets tagged "summarization"](https://huggingface.co/datasets?task_categories=task_categories%3Asummarization&type=dataset)
+- [Datasets tagged "feature extraction"](https://huggingface.co/datasets?task_categories=task_categories%3Afeature-extraction&type=dataset)
+- [Datasets tagged "image classification"](https://huggingface.co/datasets?task_categories=task_categories%3Aimage-classification&type=dataset&type=dataset)
+- [Datasets tagged "video classification"](https://huggingface.co/datasets?task_categories=task_categories%3Avideo-classification&type=dataset)
+- [Datasets tagged "text classification"](https://huggingface.co/datasets?task_categories=task_categories%3Atext-classification&type=dataset)
+- [Datasets tagged "audio classification"](https://huggingface.co/datasets?task_categories=task_categories%3Aaudio-classification&type=dataset)
+
+
+### Datasets available elsewhere
+
 - [Gensim datasets](https://github.com/piskvorky/gensim-data#readme) – repository of datasets for unstructured text processing
-- [HTR datasets in Hugging Face)(https://huggingface.co/search/full-text?q=Handwritten+Text+Recognition&type=dataset) – subject search in Hugging Face
 - [HTR datasets in Zenodo](https://zenodo.org/search?q=metadata.subjects.subject%3A%22handwritten%20text%20recognition%22&l=list&p=1&s=10&sort=bestmatch) – subject search in Zenodo
 - [HTR-United](https://htr-united.github.io) – datasets for training transcription or segmentation models
 - [Kaggle datasets](https://www.kaggle.com/datasets)
 - [nlp-datasets](https://github.com/niderhoff/nlp-datasets#readme) – free/public domain datasets with text data for use in NLP
-- [Open data collections from the National Library of Scotland](https://data.nls.uk/)
 - [Open Library data dumps](https://openlibrary.org/developers/dumps) – from the Internet Archive
+- [Open data collections from the National Library of Scotland](https://data.nls.uk/)
 - [Registry of Open Data on AWS](https://registry.opendata.aws) – datasets tagged by topic
 
 
@@ -198,11 +214,16 @@ Note: datasets for training and testing are listed in a [separate section](#data
 - [List of Artificial Intelligence (AI) initiatives in museums](https://docs.google.com/spreadsheets/d/1A7IVnucQZ0ICxYSOCjqQ1oV3xGgNzDKtIYGrk6smV7w/edit#gid=0) – compiled in 2021 by Elena Villaespesa, Oonagh Murphy and Kate Nadel for the [Museums+AI Network](https://themuseumsai.network) project.
 - [Projects in AI Registry (PAIR)](https://libraries.ou.edu/content/project-highlight-projects-ai-registry-pair) – registry of AI projects in higher education (U. Oklahoma Libraries, USA)
 
-### Projects by AI4LAM community members
+### Select individual projects
 
+- [Argilla prompt-collective](https://huggingface.co/spaces/DIBT/prompt-collective) – crowdsourcing effort to rank 50,000 prompts, on Hugging Face
+- [BigLAM](https://huggingface.co/biglam) – BigScience Libraries, Archives and Museums on Hugging Face
 - [Living with Machines](https://livingwithmachines.ac.uk) – Turing Institute & British Library
 - [Machine Learning with Archive Collections](https://blog.archiveshub.jisc.ac.uk/2022/02/28/machine-learning-with-archive-collections/)
+- [Nasjonalbiblioteket AI Lab](https://huggingface.co/NbAiLab) – National Library of Norway on Hugging Face
+- [KBLab](https://huggingface.co/KBLab) – National Library of Sweden on Hugging Face
 - [Vatican Manuscripts](https://www.youtube.com/watch?v=8khPUtwaVaw) – machine transcription in the Vatican Secret Archive
+- [PleIAs](https://huggingface.co/PleIAs) – French organization training LLMs with an open science approach
 
 
 ## Policies and recommendations<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
