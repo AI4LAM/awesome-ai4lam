@@ -148,6 +148,7 @@ Note: datasets for training and testing are listed in a [separate section](#data
 - [Annotorious](https://annotorious.github.io) – JavaScript image annotation library
 - [Audiovisual Metadata Platform (AMP)](https://uisapp2.iu.edu/confluence-prd/display/AMP/AMP%3A+Audiovisual+Metadata+Platform) – generation of metadata for discovery & use of digital audio & video collections (Indiana U., USA)
 - [CAMPI](https://kilthub.cmu.edu/articles/preprint/CAMPI_Computer-Aided_Metadata_Generation_for_Photo_archives_Initiative/12791807) – Computer-Aided Metadata Generation for Photo archives Initiative (Carnegie Mellonw U., USA)
+- [ELAN](https://archive.mpi.nl/tla/elan) – addS textual annotations to audio and/or video recordings (Max Planck Institute for Psycholinguistics, The Netherlands)
 - [inaFaceAnalyzer](https://github.com/ina-foss/inaFaceAnalyzer#readme) – Python toolbox for face-based description of gender representation in media (Institut National de l'Audiovisuel, France)
 - [Newspaper Navigator](https://labs.loc.gov/work/experiments/newspaper-navigator/) – explore visual & textual content in the _Chronicling America_ digitized newspaper collection (Library of Congress, USA)
 - [Oodi](https://medium.com/headai-customer-stories/customer-story-oodi-1d1ef2554bb6) – virtual information assistant (Helsinki Central Library)
