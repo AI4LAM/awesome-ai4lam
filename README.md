@@ -245,7 +245,7 @@ There are many (G)LAM-related datasets on Hugging Face. The following links will
 - [AI policies across the globe: Implications and recommendations for libraries](https://doi.org/10.1177/0340035223119617) by L.&nbsp;S. Lo in _IFLA Journal_, 49(4), 645–649, 2023
 - [Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI](http://dx.doi.org/10.2139/ssrn.3518482) by Fjeld et al, Berkman Klein Center Research Publication No. 2020-1, 2020
 - [What ethics do I need to consider when using AI?](https://www.muchaduabout.com/post/what-ethics-do-i-need-to-consider-when-using-ai) – blog posting by Livi Adu, Nov. 2023
-
+- [Responsible AI in Libraries and Archives](https://www.lib.montana.edu/responsible-ai/) - IMLS funded project to produce tools and strategies that support responsible use of AI in the field (2022-2025)
 
 ### Frameworks
 
