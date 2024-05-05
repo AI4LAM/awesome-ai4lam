@@ -135,6 +135,7 @@ Note: datasets for training and testing are listed in a [separate section](#data
 
 ### Document analysis, transcription, and labeling
 
+- [Arkindex](https://teklia.com/blog/arkindex-goes-open-source/) – open-source platform for managing &amp; processing collections of digitized documents
 - [Callico](https://teklia.com/blog/open-sourcing-callico/) – open-source web platform for document annotation
 - [Distributed Annotation 'n' Enrichment (DANE)](https://github.com/CLARIAH/DANE#readme) – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
 - [HTRFLOW demo](https://huggingface.co/spaces/Riksarkivet/htr_demo) and associated [GitHub repo](https://github.com/Swedish-National-Archives-AI-lab/htrflow_app) – explore AI models for Handwritten Text Recogntion (Swedish National Archives)
