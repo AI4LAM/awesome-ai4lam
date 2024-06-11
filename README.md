@@ -39,7 +39,9 @@ A curated list of resources, projects, and tools for using Artificial Intelligen
 - [Conferences and Workshops](#conferences-and-workshops)
   - [Upcoming Conferences and Workshops](#upcoming-conferences-and-workshops)
   - [Past Conferences and Workshops](#past-conferences-and-workshops)
-- [Journals and Magazines](#journals-and-magazines)
+- [Publications and News Sources](#publications-and-news-sources)
+  -  [Journals and Magazines](#journals-and-magazines)
+  -  [News sources](#news-sources)
 - [Community](#community)
 - [Contributions](#contributions)
 - [License](#license)
@@ -137,6 +139,7 @@ Note: datasets for training and testing are listed in a [separate section](#data
 
 - [Arkindex](https://teklia.com/blog/arkindex-goes-open-source/) – open-source platform for managing &amp; processing collections of digitized documents
 - [Callico](https://teklia.com/blog/open-sourcing-callico/) – open-source web platform for document annotation
+- [Coconut Libtool](https://www.coconut-libtool.com) – web-based textual analysis tool designed to assist social scientists, librarians, or anyone in data analysis
 - [Distributed Annotation 'n' Enrichment (DANE)](https://github.com/CLARIAH/DANE#readme) – compute task assignment & file storage for automatic annotation of content ([CLARIAH](https://www.clariah.nl/about-clariah), Norway)
 - [HTRFLOW demo](https://huggingface.co/spaces/Riksarkivet/htr_demo) and associated [GitHub repo](https://github.com/Swedish-National-Archives-AI-lab/htrflow_app) – explore AI models for Handwritten Text Recogntion (Swedish National Archives)
 - [Label Studio](https://labelstud.io) – data labeling platform to fine-tune LLMs, prepare training data, or validate AI models
@@ -252,6 +255,8 @@ There are many (G)LAM-related datasets on Hugging Face. The following links will
 
 - [A Comprehensive AI Policy Education Framework for University Teaching and Learning](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-023-00408-3) by C. K. Y. Chan in _International Journal of Educational Technology in Higher Education_, 20(38), 2023.
 - [A Framework for U.S. AI Governance: Creating a Safe and Thriving AI Sector](https://computing.mit.edu/wp-content/uploads/2023/11/AIPolicyBrief.pdf) white paper by the MIT Schwarzman College of Computing, Dec. 11, 2023. (See also [related article in MIT News](https://news.mit.edu/2023/mit-group-releases-white-papers-governance-ai-1211).)
+- [LC Labs Artificial Intelligence Planning Framework](https://blogs.loc.gov/thesignal/2023/11/introducing-the-lc-labs-artificial-intelligence-planning-framework/
+) – the US Library of Congress Labs offers a planning framework to support the responsible exploration and potential adoption of AI in the library
 
 
 ## Conferences and Workshops<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
@@ -281,13 +286,15 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 - [Fantastic Futures 2023](https://ff2023.archive.org) – Nov. 15–17 at Internet Archive Canada Headquarters, Vancouver, British Columbia, Canada.
 
 
-## Journals and Magazines<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
+## Publications and News Sources<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
+
+### Journals and Magazines
 
 - [AI & Society](https://link.springer.com/journal/146/articles)
 - [AI Magazine](https://onlinelibrary.wiley.com/loi/23719621)
 - [Archival Science](https://link.springer.com/journal/10502)
 - [Big Data & Society](https://journals.sagepub.com/home/bds)
-- [Critical AI](https://criticalai.org)
+- [Critical AI](https://www.dukeupress.edu/critical-ai)
 - [Digital Humanities Quarterly](https://digitalhumanities.org/dhq/)
 - [Digital Scholarship in the Humanities](https://academic.oup.com/dsh)
 - [International Journal on Digital Libraries](https://link.springer.com/journal/799)
@@ -303,6 +310,10 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 - [Literary and Linguistic Computing](https://dl.acm.org/journal/lilc)
 - [Social Science Computer Review](https://journals.sagepub.com/description/SSC)
 - [World Digital Libraries – An International Journal](https://content.iospress.com/journals/world-digital-libraries-an-international-journal)
+
+### News sources
+
+- [ARL Day in Review](https://www.arl.org/category/day-in-review)
 
 
 ## Community
