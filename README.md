@@ -256,7 +256,8 @@ There are many (G)LAM-related datasets on Hugging Face. The following links will
 - [A Comprehensive AI Policy Education Framework for University Teaching and Learning](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-023-00408-3) by C. K. Y. Chan in _International Journal of Educational Technology in Higher Education_, 20(38), 2023.
 - [A Framework for U.S. AI Governance: Creating a Safe and Thriving AI Sector](https://computing.mit.edu/wp-content/uploads/2023/11/AIPolicyBrief.pdf) white paper by the MIT Schwarzman College of Computing, Dec. 11, 2023. (See also [related article in MIT News](https://news.mit.edu/2023/mit-group-releases-white-papers-governance-ai-1211).)
 - [LC Labs Artificial Intelligence Planning Framework](https://blogs.loc.gov/thesignal/2023/11/introducing-the-lc-labs-artificial-intelligence-planning-framework/
-) – the US Library of Congress Labs offers a planning framework to support the responsible exploration and potential adoption of AI in the library
+) – US Library of Congress planning framework for responsible exploration and adoption of AI
+    - French translation: [Planification de projets IA dans les GLAM](https://github.com/altomator/Planification-de-projets-IA)
 
 
 ## Conferences and Workshops<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
