@@ -257,7 +257,7 @@ There are many (G)LAM-related datasets on Hugging Face. The following links will
 - [A Framework for U.S. AI Governance: Creating a Safe and Thriving AI Sector](https://computing.mit.edu/wp-content/uploads/2023/11/AIPolicyBrief.pdf) white paper by the MIT Schwarzman College of Computing, Dec. 11, 2023. (See also [related article in MIT News](https://news.mit.edu/2023/mit-group-releases-white-papers-governance-ai-1211).)
 - [LC Labs Artificial Intelligence Planning Framework](https://blogs.loc.gov/thesignal/2023/11/introducing-the-lc-labs-artificial-intelligence-planning-framework/
 ) – US Library of Congress planning framework for responsible exploration and adoption of AI
-    - French translation: [Planification de projets IA dans les GLAM](https://github.com/altomator/Planification-de-projets-IA)
+  - French translation: [Planification de projets IA dans les GLAM](https://github.com/altomator/Planification-de-projets-IA)
 
 
 ## Conferences and Workshops<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
@@ -284,6 +284,7 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 - [Fantastic Futures 2022](https://sites.google.com/view/ai4lam/ai4lam-2022-virtual-event) – Nov. 30–Dec. 2 virtual event hosted by the British Library, London, England.
 - [ai4Libraries Conference](https://www.ai4libraries.org) – Oct. 19 virtual event hosted by Georgia Tech Library, Atlanta, Georgia, USA.
 - [Fantastic Futures 2023](https://ff2023.archive.org) – Nov. 15–17 at Internet Archive Canada Headquarters, Vancouver, British Columbia, Canada.
+- [Fantastic Futures 2024](https://www.nfsa.gov.au/fantastic-futures-conference-canberra-2024) – Oct. 15–18 at The National Film and Sound Archive of Australia (NFSA) in Canberra, Australia.
 
 
 ## Publications and News Sources<a title="Suggest an addition to the list!" href="https://forms.gle/aPA41GT5AmbxrTwq5"><img alt="Click button to suggest an addition" align="right" src="https://raw.githubusercontent.com/AI4LAM/awesome-ai4lam/main/.graphics/suggest-addition-small.svg"></a>
