@@ -275,7 +275,6 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 - [International Conference on Digital Preservation (iPRES) 2024](https://ipres2024.pubpub.org) – Sep. 16–20 in Ghent & Flanders, Belgium.
 - [Fantastic Futures 2024](https://www.nfsa.gov.au/fantastic-futures-canberra-2024-artificial-intelligence-libraries-archives-and-museums) – Oct. 16–18 at the National Film and Sound Archive of Australia (NFSA), Canberra, Australia.
 - [ai4Libraries Conference](https://www.ai4libraries.org) – Oct. 23 and/or 24 virtual event hosted by Georgia Tech Library, Atlanta, Georgia, USA.
-- [CIDOC 2024 &amp; Frontiers of knowledge, museums, documentation, and linked data](https://cidoc.mini.icom.museum/events/next-conference/) – Nov. 11–15 in Amsterdam, the Netherlands.
 
 ### Past Conferences and Workshops
 
